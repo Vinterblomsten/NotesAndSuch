@@ -1,5 +1,5 @@
 ### Celle- og Vævsbiologi
-- Intracellulær proteinsortering: [[Compartments and Protein Distribution]]
+- Intracellulær proteinsortering: [Compartments and Protein Distribution](Compartments and Protein Distribution.md)
 - Mitochrondrier: [[Oxidative Phosphorylation and Mitochondria]]
 
 ### Cellulære Neurofysiologi
