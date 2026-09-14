@@ -1,3 +1,5 @@
+# Cells of the Nervous System   (NeuroFys)
+
 Tags: #Neuroscience #CellBiology 
 
 Division of the cell types in the brain:
@@ -38,11 +40,11 @@ The axon can vary vastly in length, but it sustains the same diameter throughout
 
 Transport inside the axon takes place along the microtubule with the help of different motor proteins. Transport away from the soma is called **anterograde transport** (Towards the + end) and towards the soma **retrograde transport** (Towards the - end). 
 
-![[Pasted image 20260831154715.png]]
+![Pasted image 20260831154715](z-Figures/Pasted%20image%2020260831154715.png)
 
 
 Some axons are **myelinated**. This is done by the **oligodendrocytes** in the CNS (It myelinates multiple axons) and **Schwann cells** in the PNS (Only a single axon). The myeline is divided into segments by **nodes of Ranvier**, where the neuron membrane is exposed to the extracellular fluid. This myelination promotes the impulse speed, making it essential for long nerves (for example motor- and sensory neurons).
-![[Screenshot 2026-08-30 at 17.38.50.png]]
+![Screenshot 2026-08-30 at 17.38.50](z-Figures/Screenshot%202026-08-30%20at%2017.38.50.png)
 
 
 Neurons can be classified by **morphological classification** which often is a clue about the functional classification too. 
@@ -54,7 +56,7 @@ Neurons can be classified by **morphological classification** which often is a c
 	- **Pyramid cells** - In cortex cerebri
 	- **Purkinje cells**  - In cerebellum (Very branched dendrite tree)
 - **Granule neurons** - Common name for a lot of neurons with **small perikaryon**
-![[Screenshot 2026-08-30 at 19.42.29.png|493]]
+![493](z-Figures/Screenshot%202026-08-30%20at%2019.42.29.png)
 
 Other classifications include 
 - Neurotransmitter type
@@ -79,7 +81,7 @@ In the **PNS**
 
 Specifically talking about the nerves we can classify them further by diameter (and myelination) and resulting speed of impulse:
 
-![[Screenshot 2026-08-30 at 17.22.56.png|571]]
+![571](z-Figures/Screenshot%202026-08-30%20at%2017.22.56.png)
 
 #### Glia cells
 The support cells of the nervous system. In the CNS the four primary types are **astrocytes**, **oligodendrocytes**, **ependymocytes** and **microglia**. Histologically they are more prone to colouring as the chromatin is more condensed.
@@ -90,7 +92,7 @@ Some glia cells have the **ability to divide** in contrast to neurons
 Many extruding parts it is know for its star shape. 
 - **Protoplasmatic** in the CNS (Or in gray matter)
 - **Fibrous** in the PNS (Or in white matter)
-Forms the mechanical support system and place a role **metabolism of transmitters** (GABA and glutamate). They also play a vital role in forming the [[Blood-Brain-Barrier (NeuroFys)]].
+Forms the mechanical support system and place a role **metabolism of transmitters** (GABA and glutamate). They also play a vital role in forming the [Blood-Brain-Barrier (NeuroFys)](Blood-Brain-Barrier%20%28NeuroFys%29.md).
 
 Astrocytes can signal each other via electrical synapses using ATP and the protein IP3.
 
@@ -104,7 +106,7 @@ Forms the myelin sheets in the CNS.
 - Presents antigen in immunological reactions
 
 ##### Ependymocytes
-Also called ependymal cells, they are a form of epithelial cells. They form a coating of the ventricle system and spinal chord, resulting in the barrier between the Blood-CSF barrier and the [[Brain Ventricles and CFS - (NeuroFys)|CSF-Brain barrier]]. 
+Also called ependymal cells, they are a form of epithelial cells. They form a coating of the ventricle system and spinal chord, resulting in the barrier between the Blood-CSF barrier and the [CSF-Brain barrier](Brain%20Ventricles%20and%20CFS%20-%20%28NeuroFys%29.md). 
 - Covered in **cilia** they produce movement in the CSF
 - They also **produce the CSF** as a port of the **choroid plexus**.
 - (They are thought to act as neural stem cells, but lacks evidence, that they wont deplete - a requirement for stem cells)

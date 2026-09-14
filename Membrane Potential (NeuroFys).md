@@ -1,7 +1,9 @@
+# Membrane Potential (NeuroFys)
+
 Tags: #Physiology  #Neuroscience #CellBiology #Electricity
 The membrane potential is defined as the **weighted average** of the **equilibrium potential** of the **permeable ions**
 
-![[Pasted image 20260903112748.png|451]]
+![451](z-Figures/Pasted%20image%2020260903112748.png)
 
 Given the relatively **high permeability of $K^+$** (but not the other ions) we have a quite negative membrane potential.
 
@@ -71,7 +73,7 @@ These proteins have multiple subunits, the $\alpha$-subunit being responsible fo
 	- Charge
 	- Dehydration energy (energy for separating the ion from water)
 	- Binding energy to the lining of the pore
-![[Screenshot 2026-09-03 at 11.30.20.png]]
+![Screenshot 2026-09-03 at 11.30.20](z-Figures/Screenshot%202026-09-03%20at%2011.30.20.png)
 
 
 Types of channels: 
@@ -83,12 +85,12 @@ Types of channels:
 | $Ca^{2+}$    | Neurotransmitter release / Muscle contraction | -40 to +20 mV        | Varies                                | Synapses |
 
 The functionality of these can be investigated with **patch clamp techniques**:
-![[Screenshot 2026-09-03 at 11.34.02.png|485]]
+![485](z-Figures/Screenshot%202026-09-03%20at%2011.34.02.png)
 Here vi create a local constant positive membrane potential activating the channels:
 
 For the **potassium canal** we see a slow opening time, but for a long period time
 For the **sodium canal** we see the opposite: a fast opening, but for a short interval of time.
-![[Screenshot 2026-09-03 at 14.19.03.png]]
+![Screenshot 2026-09-03 at 14.19.03](z-Figures/Screenshot%202026-09-03%20at%2014.19.03.png)
 Other **non-voltage dependent channels**:
 - **Mechanosensitive** channels - Which responds to mechanical force on the cell. They are usually **cation selective** or **anion selective**.
 - **Ligand controlled** channels such as
@@ -110,11 +112,11 @@ This is done using **pumps** and **coupled transporters**
 - This allows the sodium to be released and 2 potassium to bind
 - The protein is then dephosphorilized
 - Læs mere op på det!
-![[Screenshot 2026-09-03 at 11.50.35.png|528]]
+![528](z-Figures/Screenshot%202026-09-03%20at%2011.50.35.png)
 
 **Co-tranporters**
 Coupled transporters moves molecules (not just ions) **against their gradients** via the coupled molecules being moved towards their gradient
-![[Screenshot 2026-09-03 at 11.54.39.png|475]]
+![475](z-Figures/Screenshot%202026-09-03%20at%2011.54.39.png)
 This is used for
 - Capture of nutrients
 - Release of metabolites
@@ -126,4 +128,4 @@ The co-transport can be a **symporter** if the molecules moves in the same direc
 
 The co-transporters can also be **antiporters**, where they first move an ion towards its gradient, and afterwards an ion **against** its gradient 
 
-![[Screenshot 2026-09-03 at 11.59.10.png|289]]
+![289](z-Figures/Screenshot%202026-09-03%20at%2011.59.10.png)

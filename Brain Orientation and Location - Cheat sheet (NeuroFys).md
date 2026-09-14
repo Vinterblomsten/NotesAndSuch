@@ -1,3 +1,5 @@
+# Brain Orientation and Location   Cheat sheet (NeuroFys)
+
 Tags: #Neuroanatomy 
 
 1. **Sagittal Plane**: The plane that divides the body into right and left halves.
@@ -19,4 +21,4 @@ Tags: #Neuroanatomy
 17. **Ventral**: Toward the belly (or bottom of the brain in humans).
 18. **Orbito**: Towards the eyes (underside of PFC)
 
-![[Pasted image 20260825161827.png|503]]
+![503](z-Figures/Pasted%20image%2020260825161827.png)

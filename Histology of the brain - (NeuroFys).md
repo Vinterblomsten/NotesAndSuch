@@ -1,3 +1,5 @@
+# Histology of the brain   (NeuroFys)
+
 Tags: #Neuroscience #Histology
 
 When inspecting brainmatter it must be cut in thin slices and stained with a variety of techniques to observe the cells. There exists quite a lot of **staining methods**
@@ -27,7 +29,7 @@ Without staining, areas with large amounts of dopamine (e.g. in the substantia n
 
 **Immunehistochemical staining**
 By creating antibodies with stainable molecules **directing the enzymes** responsible for catalyzing the neurotransmitters
-![[Pasted image 20260831154005.png]]
+![Pasted image 20260831154005](z-Figures/Pasted%20image%2020260831154005.png)
 
 **In situ hybridization**
 

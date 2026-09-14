@@ -1,3 +1,5 @@
+# Cell Membrane Structure
+
 Tags: #Proteins #Chemistry #CellBiology 
 
 The membrane or **lipid bilayer** is one of the most important structures of the cells. Only **50 nm thick**, it is about 1/10000 the thickness of paper. It is of course the outer border of the cell, known as the **plasma membrane**, but it is also used as an **internal membrane** in a wide range of organels including:
@@ -27,7 +29,7 @@ The main constituents is of course the **membrane lipids**. These can be further
 
 **Glycolipids** is similar to phospholipids, but instead of a phosphate based hydrophilic head, they have carbohydrates - often **oligosaccharides** and **monosaccharides**. 
 - These sugar structures can be composed in a wide range, and they thus play a role in identifying cells.
-![[Screenshot 2026-09-06 at 14.35.18.png]]
+![Screenshot 2026-09-06 at 14.35.18](z-Figures/Screenshot%202026-09-06%20at%2014.35.18.png)
 
 ##### Membrane Proteins
 **Proteins** make up for about **50% of the weight** of the membrane, although the ratio is about **50 lipids to 1 protein**. They are responsible for most of the membrane functions. 
@@ -38,14 +40,14 @@ The main constituents is of course the **membrane lipids**. These can be further
 - **Enzymes**, that catalyzes reactions on the membrane - E.g. adenylyl cyclase which catalyzes cyclic AMP in response to an extracellular signal (Sort of a receptor i guess) 
 
 The membrane proteins can be subdivided into **integral membrane proteins**, which is an actual part of the membrane, and **peripheral membrane proteins**, which is attached to other membrane proteins, and thus can be more easily added or removed. 
-![[Screenshot 2026-09-06 at 16.03.15.png]]
+![Screenshot 2026-09-06 at 16.03.15](z-Figures/Screenshot%202026-09-06%20at%2016.03.15.png)
 
 The integral membrane proteins can be **transmembrane** if they penetrate both monolayers of the lipid bilayer, **monolayer-assiciated** if they are only present in one monolayer (either side), and **lipid linked**, if they are merely covalently linked to one or more membrane lipid.
 
 Because of the hydrophilic backbone of the proteins, they have to form specific conformations, that shields the backbone by hydrophobic side chains towards to lipid tails
 - **Single $\alpha$-helices** with hydrophobic side chains can penetrate the bilaier
 - **Multiple $\alpha$-helices** can form a **pore** by multiple **amphipathic** $\alpha$-helices forming a ring, with hydrophilic sides pointing inwards (towards the channel) and hydrophobic sides pointing outwards (towards the lipid bilayer)
-	![[Screenshot 2026-09-06 at 16.12.46.png|224]]
+	![224](z-Figures/Screenshot%202026-09-06%20at%2016.12.46.png)
 - **A $\beta$ barrel** can be formed of a $\beta$ sheet folded into a cylinder, with one side being hydrophilic and one side being hydrophobic
 
 #### Composition of the Membrane
@@ -54,13 +56,13 @@ Because of the hydrophilic backbone of the proteins, they have to form specific 
 The lipid bilayer of the membrane is kept together not by bindings, but by **hydrophobic forces**.
 - Since both the intracellular and extracellular environments are aqueous, the hydrophobic **tails of the membrane lipids is being pushed together**, to minimize the **thermodynamical energy cost** of the cage-like structures formed by the water around the hydrophobic molecules. 
 - Because of the double tails, the lipids cant easily form small spheres, such as micelles, and instead form **sheets** of two layers - two hydrophilic sides, with a hydrophobic center. This large sheets then form **compartments**, to "shield" the hydrophobic sides:
-![[Screenshot 2026-09-06 at 15.21.31.png|246]]
+![246](z-Figures/Screenshot%202026-09-06%20at%2015.21.31.png)
 
 ##### Fluidity
 The membrane is incredibly flexible as it can change shape, grow, and move without breaking. This is a result of the **fluidity** of the membrane.
 - As the membrane lipids as not bound together, they are free to move in the two dimensional plane, that is the membrane - lipids and membrane proteins are know to move around - **lateral diffusion**, and rotate along the axis ortogonal to the membrane. 
 - They don't **flip-flop** across the bilayer spontainously (Once a month per lipid on average)
-![[Screenshot 2026-09-06 at 15.26.13.png|252]]
+![252](z-Figures/Screenshot%202026-09-06%20at%2015.26.13.png)
 The fluidity is important for a number of reasons
 - Fast diffusion of membrane proteins, which is import in protein interaction, and for the spread of proteins from the sites of insertion to the whole cell. 
 - Its an important part of membrane fusion
@@ -75,22 +77,22 @@ The fluidity of the membrane is determined mainly by two factors:
 
 ##### Asymmetry
 The lipid bilayer is not symmetrical in composition. This is evident both for membrane lipids and membrane proteins. Most noticable is the **glycolipids** which is almost exclusively present in the extracellular space (lumen when inside the cell).
-![[Screenshot 2026-09-06 at 15.45.19.png|506]]
+![506](z-Figures/Screenshot%202026-09-06%20at%2015.45.19.png)
 
 The same side of the membrane always points towards the cytosol. This means, that the extracellular side points inwards in the **lumen** when part of the ER and golgi apparatus, and is inwards when part of **transport vesicles**. 
-![[Screenshot 2026-09-06 at 15.48.01.png|173]]
+![173](z-Figures/Screenshot%202026-09-06%20at%2015.48.01.png)
 
 ##### Cell Cortex
 The membrane in animals is often **reinforced** by an **interior** cell cortex of protein filaments, which is attached to the membrane by the transmembrane proteins (**anchors**). An example is the cortex of the **red blood cells**, which gives them their concave shape.
 - 
-![[Screenshot 2026-09-06 at 16.20.15.png|367]]
+![367](z-Figures/Screenshot%202026-09-06%20at%2016.20.15.png)
 
 ##### Restriction of Movement
 Sometimes we want to keep some proteins in specific regions of the cell - for example the transports proteins responsible for the uptake of nutrients in the epithelial cells of the gut. That is we want to **restrict the diffusion of the membrane proteins**. This can be done in multiples ways
 - A **tight junction** can act is a **diffusion barrier**, that stops proteins from moving past
 - Extracellular matrix and cell cortex, can anchor the proteins in place
 - Similarly proteins on a neighbour cell can keep each other in place
-![[Screenshot 2026-09-06 at 16.25.24.png|472]]
+![472](z-Figures/Screenshot%202026-09-06%20at%2016.25.24.png)
 
 ##### The carbohydrate surface of the cell
 Just as the **glycolipids**, many of the transmembrane proteins have chains of sugars attached. **Glycoproteins** have oligosaccharides, while **proteoglycans** have long polysaccharide chains. Togther with the glycolipids these form the **glycocalyx** or **carbohydrate layer**. This sugar coating serves multiple purposes

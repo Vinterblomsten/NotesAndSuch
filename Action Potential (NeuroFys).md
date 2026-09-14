@@ -1,6 +1,8 @@
+# Action Potential (NeuroFys)
+
 Tags: #Neuroscience #Energy #Physiology 
 
-Without any  [[Membrane Potential (NeuroFys)|membrane potential]] there is no action potential $\approx-70mV$
+Without any  [membrane potential](Membrane%20Potential%20%28NeuroFys%29.md) there is no action potential $\approx-70mV$
 All the ions wants to move towards their **equilibrium potential**
 
 | Ion       | Intracellular concentration | Extracellular concentration | Equilibirum potential (at $37 C\degree$) | Permeability (Relative) |
@@ -27,18 +29,18 @@ If we inject a constant current, we will see a small depolarization untill we tu
 
 If however we reach a threshold ($V_m\approx -50mV$) the **voltage gated channels** will open, releasing first $Na^+$ (reaching a peak of $\approx +40 mV$) then $K^+$ into the cell (Hyperpolarized to $\approx -90mV$). 
 - The actual values vary somewhat in different cells
-![[Pasted image 20260904140341.png|390]]
+![390](z-Figures/Pasted%20image%2020260904140341.png)
 ##### Voltage-clamp technique
 Used by Hodgkin and Huxley, the voltage-clamp technique is used to controll the membrane potential, that is the "real" membrane signal can be **read as the amount of error signal** which 
 can then be inverted to find the membrane potential
-![[Screenshot 2026-09-04 at 09.35.37.png|669]]
+![669](z-Figures/Screenshot%202026-09-04%20at%2009.35.37.png)
 Using voltage-clamp and varying the concentration of different ions in the extracellular fluid, they found that $Na^+$ is responsible for the depolarization (positive wave) of the action potential.
-![[Screenshot 2026-09-04 at 09.38.55.png|426]]
+![426](z-Figures/Screenshot%202026-09-04%20at%2009.38.55.png)
 By ohms law, they could calculate the conductance of each of the ions:
 $$g_{}=x\frac{I_{x}}{V-E_{x}}$$
 This revealed the time series of the two voltage-gated channels:
 
-![[Screenshot 2026-09-04 at 09.42.04.png|637]]
+![637](z-Figures/Screenshot%202026-09-04%20at%2009.42.04.png)
 **Today** we know the precise structure of the channels
 
 #### $Na_v$ ion channels
@@ -52,14 +54,14 @@ These proteins have **4 domains of 6 transmembrane segments**, the $\alpha$-subu
 	- Binding energy to the lining of the pore
 
 The functionality of these can be investigated with **patch clamp techniques**:
-![[Screenshot 2026-09-03 at 11.34.02.png|485]]
+![485](z-Figures/Screenshot%202026-09-03%20at%2011.34.02.png)
 Here vi create a local constant positive membrane potential activating the channels:
 
 When stimulating single channels, we see that the activation is not deterministic but stocastic. This however is not noticeable on average. This does mean though, that a small amount of channels will open at a lower membrane potential, creating a **positive feedback loop**, that **depolarizes the membrane and thus opens more channels**.
-![[Screenshot 2026-09-04 at 09.48.57.png|509]]
+![509](z-Figures/Screenshot%202026-09-04%20at%2009.48.57.png)
 
 When controlling the membrane potential, we see that from $-50mV$ to $-30mV$ we see
-![[Screenshot 2026-09-04 at 09.51.29.png|485]]
+![485](z-Figures/Screenshot%202026-09-04%20at%2009.51.29.png)
 
 #### $K^+$ channels (Delayed Rectifier)
 Just like the $Na^+$ these proteins have multiple subunits, the $\alpha$-subunit being responsible for both voltage sensitivity and ion specificity
@@ -69,18 +71,18 @@ Just like the $Na^+$ these proteins have multiple subunits, the $\alpha$-subunit
 	- Charge
 	- Dehydration energy (energy for separating the ion from water)
 	- Binding energy to the lining of the pore
-Unlike $Na^+$ channels, these have a delay in activation, but no inactivation, ![[Screenshot 2026-09-04 at 09.55.06.png|297]]
+Unlike $Na^+$ channels, these have a delay in activation, but no inactivation, ![297](z-Figures/Screenshot%202026-09-04%20at%2009.55.06.png)
 
 #### The action potential
 When creating a constant current of a certain size ($\approx -50mV$) we reach the threshold, which activates the $Na^+$ channels, **allowing $Na^+$ to move down its electrochemical gradient**, which creates a very fast depolarization of the membrane. Meanwhile, the $K^+$ channels begins to open, while the $Na^+$ channels becomes inactive, allowing for an efflux of $K^+$ which creates a fast repolarization, and hyperpolarization, before these channels are closed and the membrane repolarizes. 
-![[Screenshot 2026-09-04 at 09.56.12.png|530]]
+![530](z-Figures/Screenshot%202026-09-04%20at%2009.56.12.png)
 
 The below timeline shows the conductance of $Na^+$ and $K^+$ over time.
-![[Screenshot 2026-09-04 at 15.34.33.png|348]]
+![348](z-Figures/Screenshot%202026-09-04%20at%2015.34.33.png)
 In order to reach to threshold, **multiple subliminal stimulations** can be necessary. Given the **capacitory properties** of the membrane, the potential is not repolarized instantaneously, which means that a temporally close stimuli, will depolarize even more, resulting in **subliminal summation**, which can reach a threshold even though the single stimulations may not.
-![[Screenshot 2026-09-04 at 14.34.44.png]]
+![Screenshot 2026-09-04 at 14.34.44](z-Figures/Screenshot%202026-09-04%20at%2014.34.44.png)
 In reality, there is a lot of summation bot positive via **excitatory postsynaptic potential (EPSP)** and negative via **inhibitory postsynaptic potential (IPSP)**. 
-![[Pasted image 20260904144021.png]]
+![Pasted image 20260904144021](z-Figures/Pasted%20image%2020260904144021.png)
 
 ##### Refractory period
 There are two parts of the refractory period
@@ -91,7 +93,7 @@ There are two parts of the refractory period
 We have seen that a change in $[Na^+_{out}]$ has a much **lower impact** on the membrane potential the a comparable change in $[K^+_{out}]$ - This is a result of the large difference in conductance at the **resting state**.
 
 What it does affect though is the **size of the action potential**, that is the height of the peak, as well as the **length of the depolarization interval and refractory period**
-![[Screenshot 2026-09-04 at 15.27.55.png|400]]
+![400](z-Figures/Screenshot%202026-09-04%20at%2015.27.55.png)
 #### Propagation of the Action Potential
 
 **Local current loops (Strømsløjfer)** are created from the influx of $Na^+$. **Intracellular** currents of $K^+$ (Because of the high concentration) spreads away from the site of activation (A), where it depolarizes the membrane across the threshold, activating the voltage-gated channels, and thus mowing the **wave front** (B).
@@ -99,7 +101,7 @@ What it does affect though is the **size of the action potential**, that is the 
 Simultaneously the influx of $Na^+$ creates a local negative field extracellularly, so $Na^+$ flows in while $Cl^-$ flows away from the site. 
 
 The **refractory period** as a result of the $K^+$ efflux, as well as the **inactivity  of the $Na^+$ channels** keeps the previously activated site (Z) from reaching the threshold again, and thus the action potential moves **unidirectionally**.
-![[Screenshot 2026-09-04 at 16.05.52.png|519]]
+![519](z-Figures/Screenshot%202026-09-04%20at%2016.05.52.png)
 The axon initial segment has a **high concentration of voltage-gated channels**, which means that the treshold value is somewhat lower, and the axons is at its most excitable at this point, where the integration of synaptic potentials (ESPS and ISPS) takes place.
 
 Action potentials that moves in retrograde on the axon are called **antidromic spikes** and they only happen experimentally. 
@@ -114,21 +116,21 @@ $$r_m=\frac{R_m}{\pi d}, r_i=\frac{4p}{\pi d^2}$$
 We have the length constant defined as:
 $$\lambda=\sqrt{\frac{r_m}{r_i}}=\sqrt{\frac{R_m/\pi d}{4p/\pi d^2}}=\sqrt{\frac{R_m \pi d^2}{4p\pi d}}=\sqrt{\frac{R_m d}{4p}}$$
 this means the the **length constant** and thus the speed of propagation grows when the diameter grows
-![[Screenshot 2026-09-04 at 16.44.10.png|271]]
+![271](z-Figures/Screenshot%202026-09-04%20at%2016.44.10.png)
 
 **Myelination** is another method of increasing the propagation speed. A myelinated axon is covered in layers of myelin sheets, formed by oligodendricytes in the CNS and schwann cells in the PNS. This forms in intervals, with so called **nodes of Ranvier** at every 200 $\mu m$ to 2 $mm$.
-![[Screenshot 2026-09-04 at 16.47.20.png|547]]
+![547](z-Figures/Screenshot%202026-09-04%20at%2016.47.20.png)
 The myelin sheets changes two parameters of the membrane - the **membrane resistance**, which is greatly **increased**, and the **capacitance**, which is greatly **decreased**. This affects both time time constant and the length constant. 
 
 The **time constant**, which describes the time it takes to charge the membrane, is defined by $\tau=R_m C_m$, which means, that it **stays the same or decreases**, as the change in resistance and capacitance **cancel each other out** (The decrease in capacitance is actually greater than the increase in resistance). 
 
 The length constant on the other hand is only dependent on the membrane resistance (as the intracellular resistance is constant), and is thus increased proportionally (not linear) the the increased membrane resistance. 
 $$\lambda=\sqrt{\frac{r_m}{r_i}}=\sqrt{\frac{R_m d}{4p}}$$
-The **nodes of Ranvier** play an important role, as there is still **small amounts of current leaking**, which means that the recurring "renewals" of the action potential at the nodes allows the potential to jump from node to node called **saltatory conduction**.![[Screenshot 2026-09-04 at 16.59.59.png|289]]
+The **nodes of Ranvier** play an important role, as there is still **small amounts of current leaking**, which means that the recurring "renewals" of the action potential at the nodes allows the potential to jump from node to node called **saltatory conduction**.![289](z-Figures/Screenshot%202026-09-04%20at%2016.59.59.png)
 
 #### Extracellular stimulation
 One can stimulate action potentials with extracellular electrodes places **on the outside of the membrane**. These will have a (positive) anode and a (negative) cathodem, which interacts differently with the membrane.
-![[Screenshot 2026-09-04 at 17.21.18.png]]
+![Screenshot 2026-09-04 at 17.21.18](z-Figures/Screenshot%202026-09-04%20at%2017.21.18.png)
 
 At the **cathode**, the negative field outside the membrane results in an addition of cations on the inside of the membrane, and a removal of anions on the outside - **depolarizing the cell**, and starting an action potential. 
 
@@ -137,5 +139,5 @@ The **anode** does the opposite, and **hyperpolarizes** the membrane.
 ##### Extracellular measurements
 When measuring the voltage of the membrane extracellularly with a **differential amplifier**, it can be done with a reference electrode on an inactive membrane, resulting in a **monophasic action potential**. Another method is placing the two electrodes in the same fiber, resulting in a **biphasic action potential**.
 
-![[Pasted image 20260904173400.png]]
-![[Screenshot 2026-09-04 at 17.31.33.png]]
+![Pasted image 20260904173400](z-Figures/Pasted%20image%2020260904173400.png)
+![Screenshot 2026-09-04 at 17.31.33](z-Figures/Screenshot%202026-09-04%20at%2017.31.33.png)
