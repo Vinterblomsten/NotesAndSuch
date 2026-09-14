@@ -1,3 +1,8 @@
+---
+title: Functional groups in organic chemistry
+layout: default
+---
+
 # Functional groups in organic chemistry
 
 Tags: #Chemistry 

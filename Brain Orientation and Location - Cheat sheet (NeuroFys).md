@@ -1,3 +1,8 @@
+---
+title: Brain Orientation and Location   Cheat sheet (NeuroFys)
+layout: default
+---
+
 # Brain Orientation and Location   Cheat sheet (NeuroFys)
 
 Tags: #Neuroanatomy 

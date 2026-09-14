@@ -1,3 +1,8 @@
+---
+title: Biochemistry Cheat Sheet
+layout: default
+---
+
 # Biochemistry Cheat Sheet
 
 Tags: #Chemistry 

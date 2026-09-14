@@ -1,3 +1,8 @@
+---
+title: Protein Regulation and Dynamics
+layout: default
+---
+
 # Protein Regulation and Dynamics
 
 Tags: #Proteins #Enzymes 

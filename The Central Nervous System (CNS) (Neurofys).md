@@ -1,3 +1,8 @@
+---
+title: The Central Nervous System (CNS) (Neurofys)
+layout: default
+---
+
 # The Central Nervous System (CNS) (Neurofys)
 
 Tags: #Neuroscience #Neuroanatomy 

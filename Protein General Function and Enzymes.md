@@ -1,3 +1,8 @@
+---
+title: Protein General Function and Enzymes
+layout: default
+---
+
 # Protein General Function and Enzymes
 
 Tags: #Proteins #Enzymes 

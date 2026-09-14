@@ -1,3 +1,8 @@
+---
+title: Compartments and Protein Distribution
+layout: default
+---
+
 # Compartments and Protein Distribution
 
 Tags: #CellBiology 

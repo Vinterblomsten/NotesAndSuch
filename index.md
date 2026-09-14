@@ -1,3 +1,8 @@
+---
+title: index
+layout: default
+---
+
 # Overview of Notes
 
 ### Celle- og Vævsbiologi

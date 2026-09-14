@@ -1,3 +1,8 @@
+---
+title: Electrical Properties (NeuroFys)
+layout: default
+---
+
 # Electrical Properties (NeuroFys)
 
 Tags: #Physics #Physiology  #Electricity

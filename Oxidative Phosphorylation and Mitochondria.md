@@ -1,3 +1,8 @@
+---
+title: Oxidative Phosphorylation and Mitochondria
+layout: default
+---
+
 # Oxidative Phosphorylation and Mitochondria
 
 Tags: #CellBiology #Energy 

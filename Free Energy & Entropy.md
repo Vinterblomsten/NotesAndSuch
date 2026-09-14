@@ -1,3 +1,8 @@
+---
+title: Free Energy & Entropy
+layout: default
+---
+
 # Free Energy & Entropy
 
 Tags: #Entropy #Energy 

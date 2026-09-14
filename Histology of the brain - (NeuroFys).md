@@ -1,3 +1,8 @@
+---
+title: Histology of the brain   (NeuroFys)
+layout: default
+---
+
 # Histology of the brain   (NeuroFys)
 
 Tags: #Neuroscience #Histology

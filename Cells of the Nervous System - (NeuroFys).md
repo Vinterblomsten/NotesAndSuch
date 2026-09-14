@@ -1,3 +1,8 @@
+---
+title: Cells of the Nervous System   (NeuroFys)
+layout: default
+---
+
 # Cells of the Nervous System   (NeuroFys)
 
 Tags: #Neuroscience #CellBiology 

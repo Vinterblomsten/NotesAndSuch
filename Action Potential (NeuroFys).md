@@ -1,3 +1,8 @@
+---
+title: Action Potential (NeuroFys)
+layout: default
+---
+
 # Action Potential (NeuroFys)
 
 Tags: #Neuroscience #Energy #Physiology 

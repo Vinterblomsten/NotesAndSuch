@@ -1,3 +1,8 @@
+---
+title: Neural Circuits (NeuroFys)
+layout: default
+---
+
 # Neural Circuits (NeuroFys)
 
 Tags: #Neuroscience #Modelling

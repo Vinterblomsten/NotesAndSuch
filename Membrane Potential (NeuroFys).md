@@ -1,3 +1,8 @@
+---
+title: Membrane Potential (NeuroFys)
+layout: default
+---
+
 # Membrane Potential (NeuroFys)
 
 Tags: #Physiology  #Neuroscience #CellBiology #Electricity

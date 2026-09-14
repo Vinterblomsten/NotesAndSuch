@@ -1,3 +1,8 @@
+---
+title: Cell Membrane Structure
+layout: default
+---
+
 # Cell Membrane Structure
 
 Tags: #Proteins #Chemistry #CellBiology 

@@ -1,3 +1,8 @@
+---
+title: Peripheral Nervous System (PNS)
+layout: default
+---
+
 # Peripheral Nervous System (PNS)
 
 Tags: #Neuroanatomy #Neuroscience 
