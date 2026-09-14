@@ -26,4 +26,4 @@ Tags: #Neuroanatomy
 17. **Ventral**: Toward the belly (or bottom of the brain in humans).
 18. **Orbito**: Towards the eyes (underside of PFC)
 
-![503](z-Figures/Pasted%20image%2020260825161827.png)
+![503](z-Figures/Pasted_image_20260825161827.png)

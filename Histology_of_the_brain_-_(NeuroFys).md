@@ -34,7 +34,7 @@ Without staining, areas with large amounts of dopamine (e.g. in the substantia n
 
 **Immunehistochemical staining**
 By creating antibodies with stainable molecules **directing the enzymes** responsible for catalyzing the neurotransmitters
-![Pasted image 20260831154005](z-Figures/Pasted%20image%2020260831154005.png)
+![Pasted image 20260831154005](z-Figures/Pasted_image_20260831154005.png)
 
 **In situ hybridization**
 

@@ -39,7 +39,7 @@ Electrical descriptions are a great abstraction for talking about the electrical
 - Whenever two surfaces of electrical conducting material are sperated by an insolator (lipid bilayer in the cell)
 - Given by the charge and voltage: $C=Q/V$
 - The capacitance is **proportional to the area** of the plates, and **inversely proportional to the distance** between the plates
-![217](z-Figures/Screenshot%202026-09-02%20at%2010.45.31.png)
+![217](z-Figures/Screenshot_2026-09-02_at_10.45.31.png)
 - It is measured in **farad (F)** where $[F]=[C]/[V]$
 #### Relation of parameters
 
@@ -73,7 +73,7 @@ $$\tau=R_m\times C_m$$
 with the unit si calculated $\Omega\times C/V=V/A\times C/V=C/A=C/(C/s)=s$ to seconds
 
 At $t=\tau$ we have $\Delta V_m(t)=\Delta V_{m,\infty}[1-e^{-1}]\approx 0.63\Delta V_{m,\infty}$, that is we can **find the point of 63% of the steady-state, to find the time constant.** 
-![Screenshot 2026-09-02 at 15.03.30](z-Figures/Screenshot%202026-09-02%20at%2015.03.30.png)
+![Screenshot 2026-09-02 at 15.03.30](z-Figures/Screenshot_2026-09-02_at_15.03.30.png)
 **Functionally** :
 - Neurons with **large** $\tau$ (High resistance and high capacitance) integrate synaptic inputs over a longer period. This means that it is good for summing many small, temporarily spread out inputs. 
 - Neurons with **small** $\tau$ responds and resets quickly. 
@@ -81,7 +81,7 @@ At $t=\tau$ we have $\Delta V_m(t)=\Delta V_{m,\infty}[1-e^{-1}]\approx 0.63\Del
 
 ##### Membrane length Constant
 What will happen to a depolarization over distance?
-![Screenshot 2026-09-02 at 11.00.17](z-Figures/Screenshot%202026-09-02%20at%2011.00.17.png)
+![Screenshot 2026-09-02 at 11.00.17](z-Figures/Screenshot_2026-09-02_at_11.00.17.png)
 In this model we have
 - $r_o$: extracellular resistance ($\Omega/cm$)
 - $r_i$: intracellular resistance ($\Omega/cm$)
@@ -95,7 +95,7 @@ We see that when $x=\lambda$, then $\Delta V_m(x)=\Delta V_0-e^{-1}$, meaning th
 **Functionally**
 - You can pass signals very long, if the membrane resistance is high and the inside (and outside) resistance is low and vice versa
 
-![353](z-Figures/Screenshot%202026-09-02%20at%2015.36.17.png)
+![353](z-Figures/Screenshot_2026-09-02_at_15.36.17.png)
 (Also the lobster nerve is myelinated and thus higher membrane resistance than the pyramidal neuron)
 
 Space constant - **Complex version** (Luo.)
