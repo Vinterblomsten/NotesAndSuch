@@ -1,30 +1,49 @@
 ---
-title: index
+title: Notes Index
 layout: default
 ---
 
-# Overview of Notes
+# Notes Index
 
-### Celle- og Vævsbiologi
-- Intracellulær proteinsortering: [Compartments and Protein Distribution](Compartments_and_Protein_Distribution.md)
-- Mitochrondrier: [Oxidative Phosphorylation and Mitochondria](Oxidative_Phosphorylation_and_Mitochondria.md)
+## Cell and Tissue Biology
 
-### Cellulære Neurofysiologi
-- [Blood-Brain-Barrier (NeuroFys)](Blood_Brain_Barrier_%28NeuroFys%29.md)
-- [Brain Orientation and Location - Cheat sheet (NeuroFys)](Brain_Orientation_and_Location_-_Cheat_sheet_%28NeuroFys%29.md)
-- [Brain Ventricles and CFS - (NeuroFys)](Brain_Ventricles_and_CFS___%28NeuroFys%29.md)
-- [Electrical Properties (NeuroFys)](Electrical_Properties_%28NeuroFys%29.md)
-- [Neural Circuits (NeuroFys)](Neural_Circuits_%28NeuroFys%29.md)
-- [Membrane Potential (NeuroFys)](Membrane_Potential_%28NeuroFys%29.md)
-- [Action Potential (NeuroFys)](Action_Potential_%28NeuroFys%29.md)
-- [Histology of the brain - (NeuroFys)](Histology_of_the_brain___%28NeuroFys%29.md)
-- [Cells of the Nervous System - (NeuroFys)](Cells_of_the_Nervous_System___%28NeuroFys%29.md)
-- [The Central Nervous System (CNS) (Neurofys)](The_Central_Nervous_System_%28CNS%29_%28Neurofys%29.md)
+- [Compartments and Protein Distribution](./compartments-and-protein-distribution.md)
+- [Oxidative Phosphorylation and Mitochondria](./oxidative-phosphorylation-and-mitochondria.md)
+- [Cell Membrane Structure](./cell-membrane-structure.md)
+- [Transmembrane Transport](./transmembrane-transport.md)
+- [Cytoskeleton and Protein Filaments](./cytoskeleton-and-protein-filaments.md)
+- [Cell-Cell and Cell-ECM Contact](./cell-cell-and-cell-ecm-contact.md)
+- [Peroxisomes](./peroxisomes.md)
+- [Biosynthesis and Catalysis](./biosynthesis-and-catalysis.md)
+- [Protein Structures and Shapes](./protein-structures-and-shapes.md)
+- [Protein General Function and Enzymes](./protein-general-function-and-enzymes.md)
+- [Protein Regulation and Dynamics](./protein-regulation-and-dynamics.md)
+- [Biochemistry Cheat Sheet](./biochemistry-cheat-sheet.md)
+- [Functional Groups in Organic Chemistry](./functional-groups-in-organic-chemistry.md)
+- [Free Energy and Entropy](./free-energy-and-entropy.md)
+- [DNA and Kromosomes](./dna-and-kromosomes.md)
+- [DNA Relication](./dna-relication.md)
 
-#### Generelle Noter til kemi og biologi
-- [Biochemistry Cheat Sheet](Biochemistry_Cheat_Sheet.md)
-- [Functional groups in organic chemistry](Functional_groups_in_organic_chemistry.md)
-- [Free Energy & Entropy](Free_Energy_%26_Entropy.md)
-- [Protein Structures and Shapes](Protein_Structures_and_Shapes.md)
-- [Protein General Function and Enzymes](Protein_General_Function_and_Enzymes.md)
-- [Protein Regulation and Dynamics](Protein_Regulation_and_Dynamics.md)
+## Neurophysiology and Brain Science
+
+- [Blood-Brain Barrier (NeuroFys)](./blood-brain-barrier-neurofys.md)
+- [Brain Orientation and Location - Cheat Sheet (NeuroFys)](./brain-orientation-and-location-cheat-sheet-neurofys.md)
+- [Brain Ventricles and CFS - (NeuroFys)](./brain-ventricles-and-cfs-neurofys.md)
+- [Electrical Properties (NeuroFys)](./electrical-properties-neurofys.md)
+- [Neural Circuits (NeuroFys)](./neural-circuits-neurofys.md)
+- [Membrane Potential (NeuroFys)](./membrane-potential-neurofys.md)
+- [Action Potential (NeuroFys)](./action-potential-neurofys.md)
+- [Histology of the Brain - (NeuroFys)](./histology-of-the-brain-neurofys.md)
+- [Cells of the Nervous System - (NeuroFys)](./cells-of-the-nervous-system-neurofys.md)
+- [The Central Nervous System (CNS) (Neurofys)](./the-central-nervous-system-cns-neurofys.md)
+- [Peripheral Nervous System (PNS)](./peripheral-nervous-system-pns.md)
+- [Sensory Transmissions](./sensory-transmissions.md)
+- [Synaptic Plasticity](./synaptic-plasticity.md)
+- [Synaptic Transmission (NeuroFys)](./synaptic-transmission-neurofys.md)
+- [Neurotransmitters and Receptors](./neurotransmitters-and-receptors.md)
+
+## Reference Notes
+
+- [Cells of the Nervous System - (NeuroFys)](./cells-of-the-nervous-system-neurofys.md)
+- [Neurotransmitters and Receptors](./neurotransmitters-and-receptors.md)
+
