@@ -1,4 +1,4 @@
 Tags: #Chemistry 
 
 Until i get the time to make something better:
-![Pasted image 20260820143603](./z-Figures/Pasted image 20260820143603.png)
+<img src="./z-Figures/Pasted image 20260820143603.png" alt="Pasted image 20260820143603" width="220" />

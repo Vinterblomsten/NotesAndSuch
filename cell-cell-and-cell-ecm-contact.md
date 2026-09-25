@@ -31,7 +31,7 @@ It has some general properties that makes it unique from other cells and tissues
 #### Cell contacts
 Cell contacts are divided into contacts between cells and contacts between extracellular matrix and cells
 
-The important ones to know:![Screenshot 2026-09-16 at 12.53.35](./z-Figures/Screenshot 2026-09-16 at 12.53.35.png)
+The important ones to know:<img src="./z-Figures/Screenshot 2026-09-16 at 12.53.35.png" alt="Screenshot 2026-09-16 at 12.53.35" width="220" />
 
 ### Cell-Cell contacts
 The cell-cell contacts are divided into
@@ -39,21 +39,21 @@ The cell-cell contacts are divided into
 - **Adhering** - Gives stability and structure
 - **Communicating** - Intercellular communications
 
-![Screenshot 2026-09-16 at 12.21.40](./z-Figures/Screenshot 2026-09-16 at 12.21.40.png)
-![Screenshot 2026-09-22 at 09.26.20](./z-Figures/Screenshot 2026-09-22 at 09.26.20.png)
+<img src="./z-Figures/Screenshot 2026-09-16 at 12.21.40.png" alt="Screenshot 2026-09-16 at 12.21.40" width="220" />
+<img src="./z-Figures/Screenshot 2026-09-22 at 09.26.20.png" alt="Screenshot 2026-09-22 at 09.26.20" width="220" />
 #### Tight junctions
 Tight junctions **TJ** are complete belts surrounding the cell, and not just point contacts.
 
 Transmembrane proteins - **Claudine** and **occludine** (four-pass transmembrane proteins) forms tight bonds between the cells by **homophillic interactions**  between the **extracellular domains** of the proteins
 - This keeps the cells tight
 - Inhibits intercellular transport between the cells of **aqua soluble** molecules
-![Screenshot 2026-09-16 at 12.22.41](./z-Figures/Screenshot 2026-09-16 at 12.22.41.png)
+<img src="./z-Figures/Screenshot 2026-09-16 at 12.22.41.png" alt="Screenshot 2026-09-16 at 12.22.41" width="220" />
 
 
 The **protein networks** connects the TJ to the cytoskeleton 
 - Linking proteins (Plague protein) called **Zonula Occludens (ZO-1/2/3)** contains a mix of **domains** binding to claudin, occludin, signaling proteins, and **actin** - which fixes it **loosly** to the cytoskeleton 
 
-![Screenshot 2026-09-16 at 12.23.48](./z-Figures/Screenshot 2026-09-16 at 12.23.48.png)
+<img src="./z-Figures/Screenshot 2026-09-16 at 12.23.48.png" alt="Screenshot 2026-09-16 at 12.23.48" width="220" />
 **Functions of TJ**
 - It divedes the plasma membrine into the **apical** and **basal** (Basolaterale) domain
 - It **inhibits lateral diffusion** of membrane proteins
@@ -62,23 +62,23 @@ The **protein networks** connects the TJ to the cytoskeleton
 There can occur **errors int he TJ**.
 - **Claudin 1** can be defect which allows water to diffuse across the skin, which means that dehydration occurs (mice died miv)
 - Lack of claudin 1 can lead to a lot of chronic inflammatory diseases (atopic dermatatis? check it out)
-	![Screenshot 2026-09-16 at 12.28.43](./z-Figures/Screenshot 2026-09-16 at 12.28.43.png)
+	<img src="./z-Figures/Screenshot 2026-09-16 at 12.28.43.png" alt="Screenshot 2026-09-16 at 12.28.43" width="220" />
 
 #### Adherens junctions
 These **AJ** are responsible for the mechanical cobling of the cytoskeleton of neighbouring cells. This is again complete **belts** and not point contacts.
 - Transmembrane **cadherin**
 - The adhesion is **$Ca^{2+}$ dependent**
-![Screenshot 2026-09-16 at 12.30.52](./z-Figures/Screenshot 2026-09-16 at 12.30.52.png)
+<img src="./z-Figures/Screenshot 2026-09-16 at 12.30.52.png" alt="Screenshot 2026-09-16 at 12.30.52" width="220" />
 
 Homophillic interactions between intracellular **cadherin domains** holds the membranes close. The cadherin in turn binds to **plague proteins** (**Zonula adherens**), that binds to **actine filament**, thus connecting it to the cytoskeleton
 - The binding between the cadherin is dependent on the $Ca^{2+}$ ions - these are located between the cadherins in the extracellular space
 
-![Screenshot 2026-09-16 at 12.31.07](./z-Figures/Screenshot 2026-09-16 at 12.31.07.png)
+<img src="./z-Figures/Screenshot 2026-09-16 at 12.31.07.png" alt="Screenshot 2026-09-16 at 12.31.07" width="220" />
 
 
 The **cadherine super family** of more then 180 types
 - Allows differentiation of similar cells, which is important for different tissue types and especially **neural tubes**
-![Screenshot 2026-09-16 at 12.31.41](./z-Figures/Screenshot 2026-09-16 at 12.31.41.png)
+<img src="./z-Figures/Screenshot 2026-09-16 at 12.31.41.png" alt="Screenshot 2026-09-16 at 12.31.41" width="220" />
 
 **Defects in AJ** are also prevalent 
 - Defect E-cadherin in the bowels
@@ -92,9 +92,9 @@ The desmosomes are **point contacts** instead of complete belts
 - Common in cells with great mechanical stress (Epidermis and heart muscle cells)
 - Non-classical **Cadherins** – Desmoglein og desmocollin (Fine to remeber cadherins)
 - Binds to **intermediary filaments** (Different types dependent on cell type) trough plague proteins
-![Screenshot 2026-09-22 at 09.21.51](./z-Figures/Screenshot 2026-09-22 at 09.21.51.png)
+<img src="./z-Figures/Screenshot 2026-09-22 at 09.21.51.png" alt="Screenshot 2026-09-22 at 09.21.51" width="220" />
 
-![Screenshot 2026-09-16 at 12.37.08](./z-Figures/Screenshot 2026-09-16 at 12.37.08.png)
+<img src="./z-Figures/Screenshot 2026-09-16 at 12.37.08.png" alt="Screenshot 2026-09-16 at 12.37.08" width="220" />
 
 #### Epethlial-to-mesenchymal transitions (EMT)
 The cell-cell contacts is important for the integrity of the epithelial cells
@@ -107,7 +107,7 @@ There is no actual contact at gap junctions, instead it is a **gap**
 - The channels in the gap junction consists of two **halves** called **connexons**, each of which consists of **6 connexines**
 	- Allows the passage of small molecules and ions (<1000da)
 	- 1.4 nm in diameter
-![Screenshot 2026-09-16 at 12.40.08](./z-Figures/Screenshot 2026-09-16 at 12.40.08.png)
+<img src="./z-Figures/Screenshot 2026-09-16 at 12.40.08.png" alt="Screenshot 2026-09-16 at 12.40.08" width="220" />
 
 The **permeability** of the gap junctions can be **regulated** by $Ca^{2+}$ among other signal molecules.
 
@@ -136,9 +136,9 @@ The basal lamina is a specialized ECM, with
 ##### Adhesive glycoproteins
 These are **extracellular glycoproteins** with **multiple domains**, that are specialised in binding to each other and other molecules, and thus creates a **big network (matrix)**. The glycostructures are great for mechanical buffers.
 
-![Screenshot 2026-09-16 at 12.45.26](./z-Figures/Screenshot 2026-09-16 at 12.45.26.png)
+<img src="./z-Figures/Screenshot 2026-09-16 at 12.45.26.png" alt="Screenshot 2026-09-16 at 12.45.26" width="220" />
 
-![Screenshot 2026-09-16 at 12.45.14](./z-Figures/Screenshot 2026-09-16 at 12.45.14.png)
+<img src="./z-Figures/Screenshot 2026-09-16 at 12.45.14.png" alt="Screenshot 2026-09-16 at 12.45.14" width="220" />
 
 ##### Proteoglycanes
 Long chains of sulfating polysaccharides attached to a smaller protein
@@ -150,10 +150,10 @@ Long chains of sulfating polysaccharides attached to a smaller protein
 Long proteins, the forms long fibers
 - Creates the robe-like **super-helices** (triple helices)
 - Collagen IV is characteristic for forming net like structure
-![Screenshot 2026-09-16 at 12.47.47](./z-Figures/Screenshot 2026-09-16 at 12.47.47.png)
+<img src="./z-Figures/Screenshot 2026-09-16 at 12.47.47.png" alt="Screenshot 2026-09-16 at 12.47.47" width="220" />
 
 The basal lamina is thus formed by the interconnections between the criss-crossing laminin, the collagen super-helices, the proteopglycanes, and some other proteins. It forms the extracellular base of the epithelial cells, between the cells and the connective tissues. 
-![Screenshot 2026-09-16 at 12.47.59](./z-Figures/Screenshot 2026-09-16 at 12.47.59.png)
+<img src="./z-Figures/Screenshot 2026-09-16 at 12.47.59.png" alt="Screenshot 2026-09-16 at 12.47.59" width="220" />
 #### The Cell-ECM contact
 - Intracellular we have keratine, plasma stif....
 
@@ -161,19 +161,19 @@ The basal lamina is thus formed by the interconnections between the criss-crossi
 Transmembrane proteins that connects the cytoskeleton to the ECM
 - Attach the cytoskeleton to the basal membrane 
 - They .....
-![Screenshot 2026-09-23 at 15.01.56](./z-Figures/Screenshot 2026-09-23 at 15.01.56.png)
+<img src="./z-Figures/Screenshot 2026-09-23 at 15.01.56.png" alt="Screenshot 2026-09-23 at 15.01.56" width="220" />
 
 ##### Hemidesmosomes
 Anchors the epithelial cells to the ECM
 - The binds the **keratine** (intermediary filament) via the **integrin** to the **adhesive glycoproteins** in the ECM
 - It is a very strong contact
-![Screenshot 2026-09-23 at 15.06.55](./z-Figures/Screenshot 2026-09-23 at 15.06.55.png)
+<img src="./z-Figures/Screenshot 2026-09-23 at 15.06.55.png" alt="Screenshot 2026-09-23 at 15.06.55" width="220" />
 ##### Focal adhesions
 Common in **fibroblast cells** - see [Cytoskeleton and Protein Filaments](./cytoskeleton-and-protein-filaments.md) for details
-![Screenshot 2026-09-16 at 12.50.45](./z-Figures/Screenshot 2026-09-16 at 12.50.45.png)
+<img src="./z-Figures/Screenshot 2026-09-16 at 12.50.45.png" alt="Screenshot 2026-09-16 at 12.50.45" width="220" />
 
 **Defects in the integrins** can have a lot of consequences depending on the type of integrin
-![Screenshot 2026-09-16 at 12.52.40](./z-Figures/Screenshot 2026-09-16 at 12.52.40.png)
+<img src="./z-Figures/Screenshot 2026-09-16 at 12.52.40.png" alt="Screenshot 2026-09-16 at 12.52.40" width="220" />
 
 
-![Screenshot 2026-09-16 at 12.54.32](./z-Figures/Screenshot 2026-09-16 at 12.54.32.png)
+<img src="./z-Figures/Screenshot 2026-09-16 at 12.54.32.png" alt="Screenshot 2026-09-16 at 12.54.32" width="220" />

@@ -15,7 +15,7 @@ The sympathetic nervous system (SNS) is the part of the body’s automatic contr
 ##### Parasympathetic Nervous System (PSNS)
 The parasympathetic nervous system (PSNS) is the calming counterpart to the sympathetic nervous system, often referred to as the "rest and digest" system. It works to conserve energy and promote relaxation, helping the body recover and maintain balance after stress or activity. The PNS uses neurotransmitters to communicate: preganglionic neurons release acetylcholine, which signals postganglionic neurons, and these neurons also release acetylcholine to influence target organs like the heart, digestive system, and salivary glands. This activation slows the heart rate, stimulates digestion, and encourages processes like nutrient absorption and waste elimination. By fostering a state of calm and restoration, the PNS ensures the body can recharge and function efficiently during periods of rest and recovery.
 
-![Screenshot 2025-02-09 at 12.36.48](./z-Figures/Screenshot 2025-02-09 at 12.36.48.png)
+<img src="./z-Figures/Screenshot 2025-02-09 at 12.36.48.png" alt="Screenshot 2025-02-09 at 12.36.48" width="220" />
 
 #### The Enteric Nervous System
 The Enteric Nervous System is a local network of sensory and motor neurons that regulates the functioning of the gut, under the control of the CNS. Because it regulates digestive activities of the gut, the enteric nervous system plays a key role in maintaining fluid and nutrient balances in the body.
@@ -23,9 +23,9 @@ The Enteric Nervous System is a local network of sensory and motor neurons that 
 #### Somatic Nervous System
 
 ##### Spinal Nerves
-![Screenshot 2025-02-14 at 11.05.05](./z-Figures/Screenshot 2025-02-14 at 11.05.05.png)
+<img src="./z-Figures/Screenshot 2025-02-14 at 11.05.05.png" alt="Screenshot 2025-02-14 at 11.05.05" width="220" />
 
 ##### Cranial nerves
 
-![Screenshot 2025-02-09 at 12.26.48](./z-Figures/Screenshot 2025-02-09 at 12.26.48.png)
+<img src="./z-Figures/Screenshot 2025-02-09 at 12.26.48.png" alt="Screenshot 2025-02-09 at 12.26.48" width="220" />
 

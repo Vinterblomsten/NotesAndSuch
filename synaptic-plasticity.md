@@ -14,19 +14,19 @@ The synapsis is stimulated very frequently - sometimes 100s of times a second
 - **Post-tetanic potentiation** - The increase of synaptic strength after a break in firering
 
 A synapse can have facilitation, depression **or both**
-![Screenshot 2026-09-16 at 13.19.43](./z-Figures/Screenshot 2026-09-16 at 13.19.43.png)
+<img src="./z-Figures/Screenshot 2026-09-16 at 13.19.43.png" alt="Screenshot 2026-09-16 at 13.19.43" width="220" />
 
 **Synaptic depression**
 The depression is a physical property as a result of the **readily releasable pool (RRP)** decreasing in size, as the vesicle release is faster than the **priming of vesicles** in the presynaptic terminal
 
 **Synaptic facilitation**
 The facilitation **might** be a result of the **residual** $Ca^+$ in the presynaptic terminal, that is the left-over $Ca^{2+}$. This will **stimulate the priming of vesicles**, meaning, that the **RRP** will increase in size as more action potentials occur.
-![Screenshot 2026-09-16 at 13.30.25](./z-Figures/Screenshot 2026-09-16 at 13.30.25.png)
+<img src="./z-Figures/Screenshot 2026-09-16 at 13.30.25.png" alt="Screenshot 2026-09-16 at 13.30.25" width="220" />
 
 ##### Example with the whiskers (knurhår) of rat:
 Sensory neuron: **P** fires multiple times after engaging in contact with something
 
-![Screenshot 2026-09-16 at 13.22.21](./z-Figures/Screenshot 2026-09-16 at 13.22.21.png)
+<img src="./z-Figures/Screenshot 2026-09-16 at 13.22.21.png" alt="Screenshot 2026-09-16 at 13.22.21" width="220" />
 
 The **B** neuron experiences **depression** in the synapse with **P** - Information about the **starting time** of the sensory stimuli
 - Strong starting signal - decreasing over time
@@ -34,7 +34,7 @@ The **B** neuron experiences **depression** in the synapse with **P** - Informat
 The **M** neuron experience **fascilitation** in the synapse with **P** - Information about the **duration** of the sensory stimuli
 - Weak starting signal - but increasing over time
 
-![Screenshot 2026-09-16 at 13.23.57](./z-Figures/Screenshot 2026-09-16 at 13.23.57.png)
+<img src="./z-Figures/Screenshot 2026-09-16 at 13.23.57.png" alt="Screenshot 2026-09-16 at 13.23.57" width="220" />
 That is **the same neuron** can express **depression** and **fascilitation** in different synapses respectively
 
 ### Long Term Plasticity
@@ -50,25 +50,25 @@ H.M (Molaison) (1926-2008) removed the bi-latteral hippocampi - gained **full an
 When stimulating the different axons creating synapses with the same postsynaptic cell we can see the differens in synaptic strength. 
 
 When stimulating one axon with high-frequency stimulation (100 Hz) - Called **tetanus**, we increase the EPSPs in the postsynaptic cell, while another axon, that forms synapse with the same cell doesn't show an increase in EPSPs. This is called **synaptic specific potentiation**. 
-![Screenshot 2026-09-16 at 13.36.48](./z-Figures/Screenshot 2026-09-16 at 13.36.48.png)![Screenshot 2026-09-16 at 13.38.27](./z-Figures/Screenshot 2026-09-16 at 13.38.27.png)
+<img src="./z-Figures/Screenshot 2026-09-16 at 13.36.48.png" alt="Screenshot 2026-09-16 at 13.36.48" width="220" /><img src="./z-Figures/Screenshot 2026-09-16 at 13.38.27.png" alt="Screenshot 2026-09-16 at 13.38.27" width="220" />
 
 
 If however the the other axon is weakly stimulated (below the normal threshold for LTP) simultaneously with the high frequency stimulated axon, it too will undergo LTP - this is called **associativity** - Cells that fire together wire together.
-![Screenshot 2026-09-16 at 13.39.07](./z-Figures/Screenshot 2026-09-16 at 13.39.07.png)
+<img src="./z-Figures/Screenshot 2026-09-16 at 13.39.07.png" alt="Screenshot 2026-09-16 at 13.39.07" width="220" />
 #### Long Term Depression
 When a synapsis is activated with low-frequency stimulation (1 Hz) - below the regular activity of a neuron, it will result in **smaller EPSPs**.
-![Screenshot 2026-09-16 at 13.40.05](./z-Figures/Screenshot 2026-09-16 at 13.40.05.png)![Screenshot 2026-09-16 at 13.40.42](./z-Figures/Screenshot 2026-09-16 at 13.40.42.png)
+<img src="./z-Figures/Screenshot 2026-09-16 at 13.40.05.png" alt="Screenshot 2026-09-16 at 13.40.05" width="220" /><img src="./z-Figures/Screenshot 2026-09-16 at 13.40.42.png" alt="Screenshot 2026-09-16 at 13.40.42" width="220" />
 
 
 #### Cellular explanation
 Happens mostly in **glutamate receptors**:
-![Screenshot 2026-09-16 at 13.41.11](./z-Figures/Screenshot 2026-09-16 at 13.41.11.png)
+<img src="./z-Figures/Screenshot 2026-09-16 at 13.41.11.png" alt="Screenshot 2026-09-16 at 13.41.11" width="220" />
 The **NMDA receptor** is special as it is a **coincidence detector**. A $Mg^{2+}$ is attached to the receptor, gating the channel, even with glutamte present.
 
 The criteria for the activation of the NMDA receptor 
 - There is glutamte present
 - The postsynaptic cell is depolariozed
-![Screenshot 2026-09-16 at 13.42.16](./z-Figures/Screenshot 2026-09-16 at 13.42.16.png)
+<img src="./z-Figures/Screenshot 2026-09-16 at 13.42.16.png" alt="Screenshot 2026-09-16 at 13.42.16" width="220" />
 
 A single EPSP is not enough to activate the NMDA receptors, but a **high temporal summation of EPSPs** allows the **NMDA receptor to open**, 
 - creating an **influx of $Ca^{2+}$**
@@ -77,7 +77,7 @@ A single EPSP is not enough to activate the NMDA receptors, but a **high tempora
 - **AMPA receptor** are phosphorylized and released to the synapse through **exocytosis**
 this is called **early LTP**
 
-![Screenshot 2026-09-16 at 13.46.13](./z-Figures/Screenshot 2026-09-16 at 13.46.13.png)
+<img src="./z-Figures/Screenshot 2026-09-16 at 13.46.13.png" alt="Screenshot 2026-09-16 at 13.46.13" width="220" />
 
 The **early LTD** is a similar mechanism, but with a lower $Ca^{2+}$ influx
 - This activates **Calcineurin** instead of CamKII
@@ -89,7 +89,7 @@ It is all dependent of the **calcium** concentration
 	- This activates the calcineurin and protein phosphates - LTD
  - $[Ca^{2+}]> 5 \mu M$
 	- Activates CaMKII **and calcineurin**, but the CaMKII autophosphorylizes, and thus takes over in the long run - LTP
-![Screenshot 2026-09-16 at 13.48.25](./z-Figures/Screenshot 2026-09-16 at 13.48.25.png)
+<img src="./z-Figures/Screenshot 2026-09-16 at 13.48.25.png" alt="Screenshot 2026-09-16 at 13.48.25" width="220" />
 
 
 #### Late LTP and LTD
@@ -107,4 +107,4 @@ Hopfieldian perspective of neural populations
 
 When large populations of neurons are active in a learning process, that neurons becomes interconnected by LTP - this means that when a few of these are activated, that whole network becomes activated, which again strengthes the connections (**Retrival**) - this is why active recollection is good for memory - however, this can also create mistakes in connections, which is why memories becomes skewed
 
-![Screenshot 2026-09-16 at 13.51.26](./z-Figures/Screenshot 2026-09-16 at 13.51.26.png)
+<img src="./z-Figures/Screenshot 2026-09-16 at 13.51.26.png" alt="Screenshot 2026-09-16 at 13.51.26" width="220" />

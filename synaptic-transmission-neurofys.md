@@ -14,7 +14,7 @@ There are two types of synapses
 
 #### The Electrical Synapsis
 In the electrical synapsis, the presynaptic and postsynaptic neuron are connected by a **gap junction**. The channels in the gap junction consists of two **halves** called **connexons**, each of which consists of **6 connexines**
-![Screenshot 2026-09-14 at 08.23.00](./z-Figures/Screenshot 2026-09-14 at 08.23.00.png)
+<img src="./z-Figures/Screenshot 2026-09-14 at 08.23.00.png" alt="Screenshot 2026-09-14 at 08.23.00" width="220" />
 
 - They are **really fast** - with an delay of **0.2 to 0.5 ms**
 - They are **bi-directional**, meaning that an action potential can deliver current and thus depolarize in both directions
@@ -22,14 +22,14 @@ In the electrical synapsis, the presynaptic and postsynaptic neuron are connecte
 - They can control their effect size by opening/closing the gap junctions
 - They **work in synchronization** mostly, meaning that the **almost** all actions potentials in the presynaptic neuron creates an action potential in the postsynaptic current
 - Often time, the electrical synapses is **not between axon terminal and densrite**, but instead they are **located between somas** of different neurons 
-![Screenshot 2026-09-14 at 08.28.29](./z-Figures/Screenshot 2026-09-14 at 08.28.29.png)
+<img src="./z-Figures/Screenshot 2026-09-14 at 08.28.29.png" alt="Screenshot 2026-09-14 at 08.28.29" width="220" />
 
 
 ## Chemical synapses
 For the chemical synapses we can look ath the pre-synaptic mechanisms, the post-synaptic mechanisms, and the synaptic cleft
 #### Morphology of Chemical Synapses
 What we see in the microscope is the **axon terminal** with a lot of vesicles and the **active zone**, where the calcium channels and vesicle exocytosis takes place, in the presynaptic cell, and the **postsynaptic density** where the receptors are placed.
-![Screenshot 2026-09-14 at 08.34.25](./z-Figures/Screenshot 2026-09-14 at 08.34.25.png)
+<img src="./z-Figures/Screenshot 2026-09-14 at 08.34.25.png" alt="Screenshot 2026-09-14 at 08.34.25" width="220" />
 
 Chemical synapses have a number of qualities
 - They are "**slow**" with a delay $>1$ ms
@@ -45,7 +45,7 @@ There are quite a portion of membrane proteins facilitating the functions of the
 - **Synaptagmine-1** (**Syt1**) acts as the $Ca^+$ binding site
 - **Rab3** plays a role in binding to **RIM**, keeping the synaptotagmine-1 close to the $Ca^{2+}$-channels
 - **V-ATPase** is important for pumping $H^+$ out of the vesicles. This is used creating a **electrochemical gradient** for transporting neurotransmitters into the vesicle by **symport**
-![Screenshot 2026-09-14 at 16.19.24](./z-Figures/Screenshot 2026-09-14 at 16.19.24.png)
+<img src="./z-Figures/Screenshot 2026-09-14 at 16.19.24.png" alt="Screenshot 2026-09-14 at 16.19.24" width="220" />
 Vesicles can be in three states:
 - Freely diffusing vesicles (not ready for exocytosis) (98%-99% of vesicles)
 - **Tethered / Docked vesicles** - in the active zone, but not primed for fusion yet
@@ -62,7 +62,7 @@ When being **primed**:
 - **Munc18** replaces unc13
 - The **SNARE-complex** forms by synaptobrevin "curling/zipping" together with syntaxin-1 and SNAP-25
 - **Complexin** in the SNARE-complex blocks fusion of the membranes
-![Screenshot 2026-09-14 at 16.39.23](./z-Figures/Screenshot 2026-09-14 at 16.39.23.png)
+<img src="./z-Figures/Screenshot 2026-09-14 at 16.39.23.png" alt="Screenshot 2026-09-14 at 16.39.23" width="220" />
 
 The synaptotagmine has **two binding sites** for $Ca^{2+}$ called **c-domains**, and when they bind
 - (From lecture) the positivity of the ions, allows the negative membranes of the vesicle and plasma membrane to get close and fuse
@@ -78,7 +78,7 @@ After fusion, the SNARE-complex must be pulled apart. **N-ethylmaleimide-sensiti
 - **Synaptobrevin** returns to synaptic vesicles by endocytosis (different mechanisms)
 - The name SNARE comes from Soluble NSF-Attachment protein Receptor
 
-![Screenshot 2026-09-14 at 09.37.40](./z-Figures/Screenshot 2026-09-14 at 09.37.40.png)
+<img src="./z-Figures/Screenshot 2026-09-14 at 09.37.40.png" alt="Screenshot 2026-09-14 at 09.37.40" width="220" />
 ##### Mechanism of Neurotransmitter and Vesicle Reuptake
 After release of NTs into the synaptic cleft, they are either ...
 1. **Kiss-and-run** (We dont believe that?) - Fast (10-20s)
@@ -102,7 +102,7 @@ It is present int he **neuromuscular junction (NMJ)** where the motor neurons fo
 
 The **nAChR** has five subunits, where at least two are $\alpha$-subunits.
 - The binding of two acetylcholine results in a conformational change, which makes the pore permeable to both $K^+$ and $Na^+$.
-![Screenshot 2026-09-14 at 08.40.31](./z-Figures/Screenshot 2026-09-14 at 08.40.31.png)
+<img src="./z-Figures/Screenshot 2026-09-14 at 08.40.31.png" alt="Screenshot 2026-09-14 at 08.40.31" width="220" />
 The acetylcholine is only present shortly in the synaptic cleft, as the enzyme **acetylcholinesterase** is quick to degrade the acetylcholine into acetat and choline, which is transportet into the presynaptic cell by $Na^+$ symporters. 
 
 A lot can go wrong in this process
@@ -139,7 +139,7 @@ Som channels are permeable to multiple ions (E.g. AMPA is permeable to both $K^+
 
 ##### Excitatory neurotransmission
 A transmission is exitatory (stimulating) if it **increases the probability** of the postsynaptic cell firing (**EPSP**). This is for example the glutamate receptors, and the nAch receptors, both of which are **permeable to both $K^+$ and $Na^+$.**  Beacause it is permeable to both, the **reversal potential** must be higher than the **threshold** of the action potential
-![Screenshot 2026-09-14 at 08.51.24](./z-Figures/Screenshot 2026-09-14 at 08.51.24.png)
+<img src="./z-Figures/Screenshot 2026-09-14 at 08.51.24.png" alt="Screenshot 2026-09-14 at 08.51.24" width="220" />
 
 ##### Inhibitory neurotransmission 
 A transmission is inhibitory if it **decreases the probability** of the postsynaptic cell firing (**IPSP**). This is for example the $GABA_A$ receptor and the glycine receptor. These are permeable to $Cl^-$. The synapses are inhibitory, because **the reversal potential is lower than the membrane potential** - and thus hyperpolarizing the cell.
@@ -149,7 +149,7 @@ Sometimes an inhibitory transmission can become exhibitory. If the **intracellul
 - Higher than the threshold, which means, that **they are excitatory** - This is the case for neurons very early in development (**Embryonal**)
 
 ##### Summation of transmissions
-The potential change from a single EPSP is rarely enough the reach the threshold, and thus multiple synaptic transmissions must be received (both spatially and temporally). ![Screenshot 2026-09-14 at 09.00.38](./z-Figures/Screenshot 2026-09-14 at 09.00.38.png)
+The potential change from a single EPSP is rarely enough the reach the threshold, and thus multiple synaptic transmissions must be received (both spatially and temporally). <img src="./z-Figures/Screenshot 2026-09-14 at 09.00.38.png" alt="Screenshot 2026-09-14 at 09.00.38" width="220" />
 #### Effect of Synapse Location
 Most **excitatory synapses** are located at **the dendritic spines** and presynaptic terminals, whereas **inhibitory synapses** are located on **dendritic shafts**, the **soma** and **axon initial segments** (as well as the dendritic spines and presynaptic terminals), making the able to stop the spread of the EPSP via **shunting inhibition**. 
 - Modulatory synapses can form all over.
@@ -158,28 +158,28 @@ There is also a **factor of distance**, as the magnitude of the potential change
 - **Hyper-polarization** of the membrane potential decreases the added effect of the EPSP and IPSP
 - **Shunting** allows current to "leak" across the membrane, decreasing the amplitude of the EPSP it self
 
-![Screenshot 2026-09-18 at 20.46.50](./z-Figures/Screenshot 2026-09-18 at 20.46.50.png)
+<img src="./z-Figures/Screenshot 2026-09-18 at 20.46.50.png" alt="Screenshot 2026-09-18 at 20.46.50" width="220" />
 
 In reality this is a large calculation of multiple EPSPs, IPSPs and shunting inhibitions separated in both time and space
-![Screenshot 2026-09-14 at 09.17.50](./z-Figures/Screenshot 2026-09-14 at 09.17.50.png)
+<img src="./z-Figures/Screenshot 2026-09-14 at 09.17.50.png" alt="Screenshot 2026-09-14 at 09.17.50" width="220" />
 
 #### Synaptic Quants
 Bernard Katz showed that postsynaptic cell (muscle) showed small spikes called **miniature EndPlatePotential (mEPP)**, each of which is the receival of one discrete package or **quant** of neurotransmitters, which we now know is one vesicle. 
 - Each vesicle is of a certain size and thus have a **fixed amount of neurotransmitters**
 - He also showed by fitting the number of mEPP to the binomial distribution, that the release of quants are stochastic for an action potential. 
-![Screenshot 2026-09-14 at 09.30.02](./z-Figures/Screenshot 2026-09-14 at 09.30.02.png)
+<img src="./z-Figures/Screenshot 2026-09-14 at 09.30.02.png" alt="Screenshot 2026-09-14 at 09.30.02" width="220" />
 This also means, that not all action potentials deliver neurotransmitters, and as the $Na^+$ channels also are stochastic (they have a probability of activating at a certain voltage), a lot of stochastic activity is integrated in the neuron.
-![Screenshot 2026-09-14 at 09.31.13](./z-Figures/Screenshot 2026-09-14 at 09.31.13.png)
+<img src="./z-Figures/Screenshot 2026-09-14 at 09.31.13.png" alt="Screenshot 2026-09-14 at 09.31.13" width="220" />
 
 But how does synapses work reliably of they are stochastic? Have **many of them!** The axon can branch and form many parallel synapses with active zones of the same postsynaptic cell - e.g. the motor neurons forming many NMJ on the muscle fiber:
-![Screenshot 2026-09-14 at 09.33.37](./z-Figures/Screenshot 2026-09-14 at 09.33.37.png)
+<img src="./z-Figures/Screenshot 2026-09-14 at 09.33.37.png" alt="Screenshot 2026-09-14 at 09.33.37" width="220" />
 #### Transsynaptic Bridge Proteins
 Multiple proteins are used for structuring the synaptic cleft.
 - **Neuroxin 1** creates a bridge from the presynaptic cell to the **neuroligin** in the postsynaptic cells
 - **Cadherin** bridges the synapase from both sides
 We know that there is **active signalling** involving these bridges
 
-![Screenshot 2026-09-14 at 09.49.28](./z-Figures/Screenshot 2026-09-14 at 09.49.28.png)
+<img src="./z-Figures/Screenshot 2026-09-14 at 09.49.28.png" alt="Screenshot 2026-09-14 at 09.49.28" width="220" />
 
 These also keeps the nano-columns in place, such the the receptors and transmitters are kept just in the right places for effective signalling
 
@@ -192,4 +192,4 @@ The synapses form especially in the embryonic stage and the postal-natal period,
 From the puberty we begins pruning the synapses
 - Too much pruning might be a mechanism behind schitzophenia
 
-![Screenshot 2026-09-14 at 09.53.55](./z-Figures/Screenshot 2026-09-14 at 09.53.55.png)
+<img src="./z-Figures/Screenshot 2026-09-14 at 09.53.55.png" alt="Screenshot 2026-09-14 at 09.53.55" width="220" />

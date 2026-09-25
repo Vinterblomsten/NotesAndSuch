@@ -38,11 +38,11 @@ The axon can vary vastly in length, but it sustains the same diameter throughout
 
 Transport inside the axon takes place along the microtubule with the help of different motor proteins. Transport away from the soma is called **anterograde transport** (Towards the + end) and towards the soma **retrograde transport** (Towards the - end). 
 
-![Pasted image 20260831154715](./z-Figures/Pasted image 20260831154715.png)
+<img src="./z-Figures/Pasted image 20260831154715.png" alt="Pasted image 20260831154715" width="220" />
 
 
 Some axons are **myelinated**. This is done by the **oligodendrocytes** in the CNS (It myelinates multiple axons) and **Schwann cells** in the PNS (Only a single axon). The myeline is divided into segments by **nodes of Ranvier**, where the neuron membrane is exposed to the extracellular fluid. This myelination promotes the impulse speed, making it essential for long nerves (for example motor- and sensory neurons).
-![Screenshot 2026-08-30 at 17.38.50](./z-Figures/Screenshot 2026-08-30 at 17.38.50.png)
+<img src="./z-Figures/Screenshot 2026-08-30 at 17.38.50.png" alt="Screenshot 2026-08-30 at 17.38.50" width="220" />
 
 
 Neurons can be classified by **morphological classification** which often is a clue about the functional classification too. 
@@ -54,7 +54,7 @@ Neurons can be classified by **morphological classification** which often is a c
 	- **Pyramid cells** - In cortex cerebri
 	- **Purkinje cells**  - In cerebellum (Very branched dendrite tree)
 - **Granule neurons** - Common name for a lot of neurons with **small perikaryon**
-![Screenshot 2026-08-30 at 19.42.29](./z-Figures/Screenshot 2026-08-30 at 19.42.29.png)
+<img src="./z-Figures/Screenshot 2026-08-30 at 19.42.29.png" alt="Screenshot 2026-08-30 at 19.42.29" width="220" />
 
 Other classifications include 
 - Neurotransmitter type
@@ -79,7 +79,7 @@ In the **PNS**
 
 Specifically talking about the nerves we can classify them further by diameter (and myelination) and resulting speed of impulse:
 
-![Screenshot 2026-08-30 at 17.22.56](./z-Figures/Screenshot 2026-08-30 at 17.22.56.png)
+<img src="./z-Figures/Screenshot 2026-08-30 at 17.22.56.png" alt="Screenshot 2026-08-30 at 17.22.56" width="220" />
 
 #### Glia cells
 The support cells of the nervous system. In the CNS the four primary types are **astrocytes**, **oligodendrocytes**, **ependymocytes** and **microglia**. Histologically they are more prone to colouring as the chromatin is more condensed.

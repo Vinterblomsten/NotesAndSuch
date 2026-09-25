@@ -32,7 +32,7 @@ These metabotropic receptors modulate activity by activating different kinds of 
 All G-proteins are activated by binding GTP, and inactivated by hydrolyzing it to GDP.
 When the transmitter binds to the GPCR, the GTP is bound to the G-protein, and it as active.
 - The different parts of the protein ($\alpha$, $\beta$, $\gamma$) can have different functions when activated
-![Screenshot 2026-09-16 at 15.42.34](./z-Figures/Screenshot 2026-09-16 at 15.42.34.png)
+<img src="./z-Figures/Screenshot 2026-09-16 at 15.42.34.png" alt="Screenshot 2026-09-16 at 15.42.34" width="220" />
 Some if the G-proteins include: 
 
 **Stimulatory G protein**  - $G_s$
@@ -41,7 +41,7 @@ This is activated by $\beta$-adrenergic receptors (among others) and thus **nora
 - AC catalyzes the production of **cyclic AMP (Camp)**
 - when cAMP binds to four sites of **A-kinase anchoring protein (AKAP)** this releases and activates two PKA subunits
 - These can phosphorylate a variety of targets (here $Ca^{2+}$ channels), generally increasing activity
-![Screenshot 2026-09-16 at 15.55.06](./z-Figures/Screenshot 2026-09-16 at 15.55.06.png)
+<img src="./z-Figures/Screenshot 2026-09-16 at 15.55.06.png" alt="Screenshot 2026-09-16 at 15.55.06" width="220" />
 **Inhibitory G protein** - $G_i$ ($G_o$) 
 This has the opposite effect of $G_s$, as it **inhibits the activity of AC**, and thus the production of cAMP
 - It can also activate $K^+$ channels, hyperpolarizing the cell
@@ -53,7 +53,7 @@ These are important as they effect the **phospholipase C (PLC)**.
 		- This activates the CaM which activates **CaM kinase 2 (CaMKII)**
 	- DAG activates **protein kinase C (PKC)**
 - In general, the PKC,  and other calcium activated proteins alter the excitation of the postsynaptic cell
-![Screenshot 2026-09-16 at 16.13.53](./z-Figures/Screenshot 2026-09-16 at 16.13.53.png)
+<img src="./z-Figures/Screenshot 2026-09-16 at 16.13.53.png" alt="Screenshot 2026-09-16 at 16.13.53" width="220" />
 
 Some of the **effectors** of the G proteins of the metabotropic receptors are
 - **Ion channels** - especially $K^+$ and $Ca^{2+}$ channels causing indirect IPSPs and other stuff
@@ -61,7 +61,7 @@ Some of the **effectors** of the G proteins of the metabotropic receptors are
 - **Enzymes** - PKA, PKC, CaMKII, transmitter synthase, etc.
 - **Transcription factors** - Such as CREB (Tjek det ud for spændende pathway)
 
-![Screenshot 2026-09-18 at 21.08.22](./z-Figures/Screenshot 2026-09-18 at 21.08.22.png)
+<img src="./z-Figures/Screenshot 2026-09-18 at 21.08.22.png" alt="Screenshot 2026-09-18 at 21.08.22" width="220" />
 
 #### GABA-synapses
 These synapses use GABA as transmitter, and it utilizes multiple GABA receptor types. Three types of receptors:
@@ -74,8 +74,8 @@ When GABA is released:
 - On the **presynaptic** cell, $GABA_B$ receptors leads to **inhibition** of the $Ca^{2+}$ channels, which decreases the vesicle release - **negative feedback loop**
 
 (Recirculation via glutamine is extracurricular)
-![Screenshot 2026-09-16 at 11.24.04](./z-Figures/Screenshot 2026-09-16 at 11.24.04.png)
-![Screenshot 2026-09-16 at 11.27.03](./z-Figures/Screenshot 2026-09-16 at 11.27.03.png)
+<img src="./z-Figures/Screenshot 2026-09-16 at 11.24.04.png" alt="Screenshot 2026-09-16 at 11.24.04" width="220" />
+<img src="./z-Figures/Screenshot 2026-09-16 at 11.27.03.png" alt="Screenshot 2026-09-16 at 11.27.03" width="220" />
 
 #### Glutamate-synapses 
 These also have multiple receptor types:
@@ -92,10 +92,10 @@ Nice figur fra bog? (3-24)
 On the presynaptic side:
 - The **mGlur 2/3** inhibits the $Ca^{2+}$ channels in the presynaptic terminal, which decrease the release of further glutamate (negative feedback loop)
 
-![Screenshot 2026-09-16 at 11.31.48](./z-Figures/Screenshot 2026-09-16 at 11.31.48.png)
+<img src="./z-Figures/Screenshot 2026-09-16 at 11.31.48.png" alt="Screenshot 2026-09-16 at 11.31.48" width="220" />
 
 These synapses are especially important in apoplexia 
-![Screenshot 2026-09-16 at 11.34.19](./z-Figures/Screenshot 2026-09-16 at 11.34.19.png)
+<img src="./z-Figures/Screenshot 2026-09-16 at 11.34.19.png" alt="Screenshot 2026-09-16 at 11.34.19" width="220" />
 1. An area of the brain looses acces to oxygen (Hypoxic), and **the Na+/K+ pump stops**
 2. The neurons thus depolarizes
 3. Glutamerge synapses becomes overactive and releases a lot of glutamate
@@ -109,14 +109,14 @@ Some types of unorthodox transmission:
 - Some presynaptic cells can release vesicles (e.g. neuropeptides) outside of the synapsis called **extrasynaptic release**
 - **Volume transmission** (**Paracrine transmission**) - The release of transmitters into the extracellular space (outside of synapses) -This is in opposition to wiring transmission (intrasynaptic transmission)
 
-![Screenshot 2026-09-16 at 11.22.03](./z-Figures/Screenshot 2026-09-16 at 11.22.03.png)
+<img src="./z-Figures/Screenshot 2026-09-16 at 11.22.03.png" alt="Screenshot 2026-09-16 at 11.22.03" width="220" />
 ### The diffuse modularity systems
 The brain has multiple system of (almost) pure metabotrope transmission - defined by the different transmitters
-![Screenshot 2026-09-16 at 11.36.39](./z-Figures/Screenshot 2026-09-16 at 11.36.39.png)
+<img src="./z-Figures/Screenshot 2026-09-16 at 11.36.39.png" alt="Screenshot 2026-09-16 at 11.36.39" width="220" />
 
 Each of the neuromodulatory systems are composed of neurons of the given transmitter system, which cell bodies (somas) are localized in discrete nuclei in the brain stem and basal forebrain, **projecting (axons)** extensively to the forebrain, where they utilize **volume transmissions** to release large amounts of the given transmitters, and thus changing the concentrations of them in large areas of the brain. 
 
-![Screenshot 2026-09-16 at 11.38.26](./z-Figures/Screenshot 2026-09-16 at 11.38.26.png)
+<img src="./z-Figures/Screenshot 2026-09-16 at 11.38.26.png" alt="Screenshot 2026-09-16 at 11.38.26" width="220" />
 
 These systems are used in a lot of medicine, where drugs inhibits the reuptake of the givent transmitters
 - **Ritalin** (Methylpehenidat): Inhibits reuptake of noradrenalin and dopamin
@@ -134,7 +134,7 @@ The neurons with somas located in the **raphe nuclei** (about seven of them) is 
 Serotonin is **synthezised** from tryptophan (essential amino - meaning that it must be ingested, e.g. chocolate) 
 
 (The synapsis is **extracullicular**):
-![Screenshot 2026-09-16 at 11.44.19](./z-Figures/Screenshot 2026-09-16 at 11.44.19.png)
+<img src="./z-Figures/Screenshot 2026-09-16 at 11.44.19.png" alt="Screenshot 2026-09-16 at 11.44.19" width="220" />
 
 #### Dopamine system
 The dopamine system is divded into two systemes
@@ -154,7 +154,7 @@ Some important receptors in the dopamine synapses is the
 - **D2-like** receptors - Both **pre- and postsynaptic** recptor 
 	- **Postsynaptic** - coupled to **$G_i$-protein**, leading to **inhibition** of AC and synthesis of cAMP (Inhibitory)
 	- **Presynaptic** - D2 activation inhibits the dopamine synthesis  - **Negative feedback loop**
-![Screenshot 2026-09-16 at 11.43.30](./z-Figures/Screenshot 2026-09-16 at 11.43.30.png)
+<img src="./z-Figures/Screenshot 2026-09-16 at 11.43.30.png" alt="Screenshot 2026-09-16 at 11.43.30" width="220" />
 
 #### Noradrenaline system
 Also called norepinephrine the somas are located in **locus coeruleus** and projected to much of the forebrain. It modulates:
@@ -171,7 +171,7 @@ The three main recepters of the noradrenalin synapses are:
 	- **Presynaptic** - Inhibits $Ca^{2+}$ transmitter release - **negative feedback loop**
 	- **Postsynaptic** - Inhibits AC and synthesis of cAMP (Inhibitory)
 - $\beta$  - **Postsynaptic** receptors coupled to **$G_s$-protein** activating AC and  and synthesis of cAMP (Excitatory)
-![Screenshot 2026-09-16 at 11.49.31](./z-Figures/Screenshot 2026-09-16 at 11.49.31.png)
+<img src="./z-Figures/Screenshot 2026-09-16 at 11.49.31.png" alt="Screenshot 2026-09-16 at 11.49.31" width="220" />
 #### Depression
 Symptoms
 - Loss of appetite
@@ -184,7 +184,7 @@ The **monoamine hypothesis** says that depression is a defect in one of the diff
 - We don't necessarily believe this anymore
 - Other theories
 
-![Screenshot 2026-09-16 at 11.51.44](./z-Figures/Screenshot 2026-09-16 at 11.51.44.png)
+<img src="./z-Figures/Screenshot 2026-09-16 at 11.51.44.png" alt="Screenshot 2026-09-16 at 11.51.44" width="220" />
 #### Retrograde transmission
 Retrograde transmission - that is from postsynaptic to presynaptic cell, is done by **endocannabinoids** - why did THC work? they discovered the retrograde transmission
 
@@ -201,4 +201,4 @@ The endocannabinoids are synthezised in the postsynaptic cells, upon activation 
 - Decreasing the inhibition of GABA transmission (Depolarization-induced suppression of inhibition - DSI)
 - Decreasing the excitation of glutamate transmissions (Depolarization-induced suppression of excitation - DSE)
 
-![Screenshot 2026-09-16 at 11.54.07](./z-Figures/Screenshot 2026-09-16 at 11.54.07.png)
+<img src="./z-Figures/Screenshot 2026-09-16 at 11.54.07.png" alt="Screenshot 2026-09-16 at 11.54.07" width="220" />

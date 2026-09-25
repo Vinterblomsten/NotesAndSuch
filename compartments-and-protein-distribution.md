@@ -13,21 +13,21 @@ Membranes play a role in much more than the plasma membrane. Membrane-divided co
 - Vesicles of all kinds
 
 The plasma membrane make up for $<5\%$ of the lipid bilayer in most cells:
-![Screenshot 2026-09-08 at 10.18.50](./z-Figures/Screenshot 2026-09-08 at 10.18.50.png)
+<img src="./z-Figures/Screenshot 2026-09-08 at 10.18.50.png" alt="Screenshot 2026-09-08 at 10.18.50" width="220" />
 
 All of these different compartments have different functions, needs different proteins, and are a part of different pathways.
 
 In order to distribute the proteins between these compartments, the cell needs **methods to differentiate** and later transport each protein to the correct place across the membrane.
 ##### Signal sequences
 Specific sequences of amino acids works as a sort of postal addres in the cell. These are called **signal sequences**. They are **independent of the protein function**, and can be freely moved to other proteins (e.g. using crisper) while retaining the function for transport. 
-![Screenshot 2026-09-08 at 12.24.34](./z-Figures/Screenshot 2026-09-08 at 12.24.34.png)
+<img src="./z-Figures/Screenshot 2026-09-08 at 12.24.34.png" alt="Screenshot 2026-09-08 at 12.24.34" width="220" />
 
 ##### Transport of proteins
 The three general distribution systems:
 1. In vesicles - **The secretory pathway**
 2. Across membranes directly using **translocation proteins** + **receptors** (ER, Mitochondria, and Peroxisomes)
 3. Through pores in the double membrane of the nucleus
-![Screenshot 2026-09-08 at 10.28.37](./z-Figures/Screenshot 2026-09-08 at 10.28.37.png)
+<img src="./z-Figures/Screenshot 2026-09-08 at 10.28.37.png" alt="Screenshot 2026-09-08 at 10.28.37" width="220" />
 
 ## Secretory Pathway
 The DNA has 19670 genes coding for proteins, of which 36% ($\approx 7000$) are sorted by the secretory pathway. The secretory pathway describes the ER system with 
@@ -40,7 +40,7 @@ The DNA has 19670 genes coding for proteins, of which 36% ($\approx 7000$) are s
 	- To **secretary granules** (vesicles) for **regulated secretion**
 	- To **lysosomes** in the form of vesicles **forming early endosomes** or **fusing with late endosomes / lysosomes** (Endolysosomal system)
 
-![Pasted image 20260908112208](./z-Figures/Pasted image 20260908112208.png)
+<img src="./z-Figures/Pasted image 20260908112208.png" alt="Pasted image 20260908112208" width="220" />
 
 #### Co-translational translocation 
 This is a method used to transport the proteins across the membranes of the **rough ER** simultaneously as the translation takes place 
@@ -50,16 +50,16 @@ This is a method used to transport the proteins across the membranes of the **ro
 - This binds the **signal sequence** and the SRP is displaced for later use
 - The synthesis resumes which simultaniously "**pushes**" the peptide chain through the receptor, into the **ER Lumen**. 
 - The signal peptide is cleaved from the protein by **signal peptidase**
-![Screenshot 2026-09-08 at 10.32.26](./z-Figures/Screenshot 2026-09-08 at 10.32.26.png)![Screenshot 2026-09-08 at 12.33.27](./z-Figures/Screenshot 2026-09-08 at 12.33.27.png)
+<img src="./z-Figures/Screenshot 2026-09-08 at 10.32.26.png" alt="Screenshot 2026-09-08 at 10.32.26" width="220" /><img src="./z-Figures/Screenshot 2026-09-08 at 12.33.27.png" alt="Screenshot 2026-09-08 at 12.33.27" width="220" />
 
 The **translocon** in the rough ER is called **Sec61**, and it that has two important parts:
 1. A **plug** that blocks transport across the pore. This is displaced by the **signal sequence**, allowing translocation of the peptide chain. 
 2. A **latteral gate** which can open a "door" to the membrane, allowing for a **transmembrane protein to be released** into the lipid bilayer - or for soluble proteins, it releases the **signal peptide**
 
 Not only **singlepass** transmembrane proteins can be released into the membrane. The poly-peptide sequence can code for **start-transfer** and **stop-transfer** sequences, both of which code for a transmembranial parts of the **multipass** protein:
-![Screenshot 2026-09-08 at 10.38.13](./z-Figures/Screenshot 2026-09-08 at 10.38.13.png)
-![Screenshot 2026-09-08 at 10.38.20](./z-Figures/Screenshot 2026-09-08 at 10.38.20.png)
-![Screenshot 2026-09-16 at 09.29.26](./z-Figures/Screenshot 2026-09-16 at 09.29.26.png)
+<img src="./z-Figures/Screenshot 2026-09-08 at 10.38.13.png" alt="Screenshot 2026-09-08 at 10.38.13" width="220" />
+<img src="./z-Figures/Screenshot 2026-09-08 at 10.38.20.png" alt="Screenshot 2026-09-08 at 10.38.20" width="220" />
+<img src="./z-Figures/Screenshot 2026-09-16 at 09.29.26.png" alt="Screenshot 2026-09-16 at 09.29.26" width="220" />
 
 #### Intra-ER Modifications - The Folding Factory
 In the lumen of the ER, the proteins can undergo multiple modifications
@@ -67,17 +67,17 @@ In the lumen of the ER, the proteins can undergo multiple modifications
 1. **Folding and multimerization** - That is, the polypeptide chain must gain its secondary, tertiary and quarternary structure
 
 2. **GPI-anchoring** where a transmembrane protein is cleaved at the **C-terminal** (Transmembrane part), which is repalced by a glycosylphosphatidylinositol (GPI) - a **membrane lipid covalently linked to a carbohydrate** (phostphate). This called a GPI anchor.
-	![Screenshot 2026-09-08 at 10.43.32](./z-Figures/Screenshot 2026-09-08 at 10.43.32.png)
+	<img src="./z-Figures/Screenshot 2026-09-08 at 10.43.32.png" alt="Screenshot 2026-09-08 at 10.43.32" width="220" />
 
 
 3. The oxidation of **disulfide bridges** between the cysteine in the folded proteins. This is catalyzes by an **oxidized** protein disulfide isomerase (**PDI**), which binds to the cysteine, reduced, and the protein is oxidized.
-	 ![Screenshot 2026-09-08 at 10.43.16](./z-Figures/Screenshot 2026-09-08 at 10.43.16.png)
+	 <img src="./z-Figures/Screenshot 2026-09-08 at 10.43.16.png" alt="Screenshot 2026-09-08 at 10.43.16" width="220" />
 
 
 4. **N-glycosylation**, which is where oligosaccharides are transfered  **en block** from a lipid precurser to the amide of **asparagin**. This is catalyzed by **oligosaccharyltransferase (OST)**
 	1. It gives the protein properties of **shape**, **size** and **polarity**.  
 	2. It helps with the correct folding - quality control 
-	![Screenshot 2026-09-08 at 16.28.39](./z-Figures/Screenshot 2026-09-08 at 16.28.39.png)
+	<img src="./z-Figures/Screenshot 2026-09-08 at 16.28.39.png" alt="Screenshot 2026-09-08 at 16.28.39" width="220" />
 	After glycosylation the oligosaccharide is trimmed by 
 	- **Glucosidase I** which removes the outermost glucose.
 	- **Glucosidase II** which removes the next two glucose residues, leaving a **monoglucosylated glycan**
@@ -97,7 +97,7 @@ Multiple chaperones act upon the newly synthesized protein:
 If the re-glycosylation fails, another system for folding is **Endoplasmic Reticulum Associated Degradation (ERAD)** 
 -  The misfolded protein is **translocated** out of the lumen, where it is bound to **ubiquitin** by the enzyme **ubiquitin ligase**
 - They are recognized by the **proteasome**, which degrades the protein such that it doesn't accumulate, and such that it can be up-cycled
-![Screenshot 2026-09-08 at 10.49.14](./z-Figures/Screenshot 2026-09-08 at 10.49.14.png)
+<img src="./z-Figures/Screenshot 2026-09-08 at 10.49.14.png" alt="Screenshot 2026-09-08 at 10.49.14" width="220" />
 
 When a lot of misfolded proteins accumulate in the ER this sends an **unfolded protein response (URP)**. This can result in multiple things:
 - More chaperones are synthesized and added to assist in the folding of the proteins
@@ -108,14 +108,14 @@ The (smooth) ER also has a function of **synthesizing new lipids** and as a **st
 
 ##### Vesicle Transport
 The principles of vesicle transport is a part of a compartment, which include soluble and membrane cargo molecules, 
-![Screenshot 2026-09-08 at 11.13.32](./z-Figures/Screenshot 2026-09-08 at 11.13.32.png)
+<img src="./z-Figures/Screenshot 2026-09-08 at 11.13.32.png" alt="Screenshot 2026-09-08 at 11.13.32" width="220" />
 
 #### Transport between ER and Golgi
 The cytosol side of the membrane creates vesicles by budding, while becoming covered in a **COPII coat**. These are grouped in a vesicular tubular cluster, which can be recognized and moved along the microtubuli by the power of motor proteins.
 
 Some proteins are sent in the opposite directions (retrieval transport), the vesicles are coated in a **COPI coat** - This is often proteins (usually chaperone proteins) that are **sent to golgi by mistake** (that is they have a retention signal)
-![Screenshot 2026-09-08 at 11.17.17](./z-Figures/Screenshot 2026-09-08 at 11.17.17.png)
-![Screenshot 2026-09-08 at 11.14.52](./z-Figures/Screenshot 2026-09-08 at 11.14.52.png)
+<img src="./z-Figures/Screenshot 2026-09-08 at 11.17.17.png" alt="Screenshot 2026-09-08 at 11.17.17" width="220" />
+<img src="./z-Figures/Screenshot 2026-09-08 at 11.14.52.png" alt="Screenshot 2026-09-08 at 11.14.52" width="220" />
 
 #### Intra-Golgi Modifications
 Inside the golgi apparatus, more protein modifications take place. The golgi consist of a stack of folded compartments called **cisternae** - each golgi stack hacing between 3 and 20 cisterna (and cells having 1 to 100s of stacks). Each stack has a **cis face** towards the ER and a **trans face** away from the ER. 
@@ -133,7 +133,7 @@ Soluble proteins and membrane proteins enter the CGN via vesicles from the ER. S
 **Trans Golgi Network (TGN)**
 - **Kinaser** phosphorylate serine/threonine/tyrosine on proteins.
 - **Furin, PC1/3, PC2** cut proproteins to activate them
-![Screenshot 2026-09-08 at 11.19.26](./z-Figures/Screenshot 2026-09-08 at 11.19.26.png)
+<img src="./z-Figures/Screenshot 2026-09-08 at 11.19.26.png" alt="Screenshot 2026-09-08 at 11.19.26" width="220" />
 
 In the TGN the proteins are sorted by **constitutive secretion** or **regulated secretion**.
 
@@ -148,7 +148,7 @@ For both regulated and constitutive secretion, the exicytosis happens by fusion 
 - Tethering - **Rab-GTP** transports the vesicle to the membrane, where if tetheres to **tethering proteins.
 - Docking - the **v-SNARE** on the vesicles form a complex with the **t-SNARE** on the membrane, 
 - Fusion - a **twirl** of the complex pushed the membranes together until they fuse
-![Screenshot 2026-09-08 at 11.29.13](./z-Figures/Screenshot 2026-09-08 at 11.29.13.png)
+<img src="./z-Figures/Screenshot 2026-09-08 at 11.29.13.png" alt="Screenshot 2026-09-08 at 11.29.13" width="220" />
 
 #### Endocytosis
 There are multiple types of endocytosis
@@ -163,9 +163,9 @@ There are multiple types of endocytosis
 	- The organelle is surrounded by a membrane (somehow?) and transfered to the lysosomes where it merges
 	- Technically not endocytosis, but often mentioned together
 
-![Screenshot 2026-09-16 at 10.37.27](./z-Figures/Screenshot 2026-09-16 at 10.37.27.png)
+<img src="./z-Figures/Screenshot 2026-09-16 at 10.37.27.png" alt="Screenshot 2026-09-16 at 10.37.27" width="220" />
 
-![Screenshot 2026-09-11 at 14.42.03](./z-Figures/Screenshot 2026-09-11 at 14.42.03.png)
+<img src="./z-Figures/Screenshot 2026-09-11 at 14.42.03.png" alt="Screenshot 2026-09-11 at 14.42.03" width="220" />
 
 Lipids and cholesterols are transported in the blood by large **low-density lipoproteins (LDL)**, which is recognized by **LDL-receptors** and tranlocated into the cell by **endocytosis**. This is fused with the endosome, where the receptor is released into a vesicle and exocytosis - this is an example of **Receptor-mediated endocytosis**
 - Carge receptors recognize the cargo molecules, and binds intracellularly to **adaptine 1** (adaptine 2 is used for transport from glogi to endosomes)
@@ -182,7 +182,7 @@ After excocytosis, the LDL-vesicles are sent to an **endosome**
 
 
 The coats involved in the secretory pathway:
-![Screenshot 2026-09-08 at 11.33.08](./z-Figures/Screenshot 2026-09-08 at 11.33.08.png)
+<img src="./z-Figures/Screenshot 2026-09-08 at 11.33.08.png" alt="Screenshot 2026-09-08 at 11.33.08" width="220" />
 
 ##### Lysosomal Protein Transport
 Some proteins are destined for the processes of degregation in the lysosomes. These proteins have a **signal patch** consisting of the phosphorylized oligosaccharides called **M6P**. This is recognized by **M6P receptors in the trans-golgi network**, and are sent from the golgi in vesicles coated by **adaptine 1** and **clathrine**. After delivery, the M6P receptors are send back to the golgi in **retromer coated** vesicles.
@@ -193,19 +193,19 @@ The **lysosome** in it self as the cells degradation centers
 - **Proton pumps** keep the pH at 4.5-5.0
 - The have **hydrolytic enzymes** which are at their **acidic optimum** at the lysosomal pH.
 	- There is a lot of lysosomal storage disease as a result of different dysfunctional hydrolytic enzymes
-![Screenshot 2026-09-08 at 11.39.55](./z-Figures/Screenshot 2026-09-08 at 11.39.55.png)![Screenshot 2026-09-08 at 11.40.13](./z-Figures/Screenshot 2026-09-08 at 11.40.13.png)
+<img src="./z-Figures/Screenshot 2026-09-08 at 11.39.55.png" alt="Screenshot 2026-09-08 at 11.39.55" width="220" /><img src="./z-Figures/Screenshot 2026-09-08 at 11.40.13.png" alt="Screenshot 2026-09-08 at 11.40.13" width="220" />
 
 #### Transport to the Nucleus
 Small molecules (5000 Da to 60 kDa) can pass the nucleus pores by simple diffusion.
 
 The nuclear proteins are synthesizes in the cytosol. When the **NLS sequence** is exposed, they are bound to the **nuclear import receptors**. This receptor transports the protein complex into the nuclear pore, where they can step-wise bind to the nuclear pore proteins, that otherwise form a gel-like substance.
-![Screenshot 2026-09-08 at 11.43.50](./z-Figures/Screenshot 2026-09-08 at 11.43.50.png)
+<img src="./z-Figures/Screenshot 2026-09-08 at 11.43.50.png" alt="Screenshot 2026-09-08 at 11.43.50" width="220" />
 Inside nucleus, the **Ran-GTP** will swap place with the protein complex, and receptor moves out of the pore again, where the Ran-GTP is hydrolized by Ran-GAP, and thus releases the receptor. Thus the import process can repeat. 
 
 The Ran-GDP is phophorylized by RAN-GEF in the nucleus.
 
 
-![Screenshot 2026-09-08 at 11.45.53](./z-Figures/Screenshot 2026-09-08 at 11.45.53.png)
+<img src="./z-Figures/Screenshot 2026-09-08 at 11.45.53.png" alt="Screenshot 2026-09-08 at 11.45.53" width="220" />
 
 #### Transport into the Mitochondria
 While the mitochondria have DNA coding for some proteins, most of the are imported from the cytosol. 
@@ -213,7 +213,7 @@ While the mitochondria have DNA coding for some proteins, most of the are import
 - This complex moves to a narrow membrane segment, where it can bind to an inner membrane translocator (**TIM**). 
 - Here the protein unfolds and translocates into the matrix, where the signal peptide is cleaved and the protein is matured - This translocation and folding process is facilitated by **chaperone proteins** which uses ATP for the proces. 
 - Once the signal peptide is cleaved, further signals may be decoded from the chain - for example for the transport to the inner membrane or the matrix. 
-![Screenshot 2026-09-08 at 11.47.46](./z-Figures/Screenshot 2026-09-08 at 11.47.46.png)
+<img src="./z-Figures/Screenshot 2026-09-08 at 11.47.46.png" alt="Screenshot 2026-09-08 at 11.47.46" width="220" />
 
 #### Transport into the Peroxisomes
-The peroxisomes receives proteins both as vesicle transport from the ER (or golgi), and directly from the cytosol. The **translocation proteins** of the peroxides are special, as they can translocate the proteins **without unfolding them**.![Screenshot 2026-09-08 at 11.50.18](./z-Figures/Screenshot 2026-09-08 at 11.50.18.png)
+The peroxisomes receives proteins both as vesicle transport from the ER (or golgi), and directly from the cytosol. The **translocation proteins** of the peroxides are special, as they can translocate the proteins **without unfolding them**.<img src="./z-Figures/Screenshot 2026-09-08 at 11.50.18.png" alt="Screenshot 2026-09-08 at 11.50.18" width="220" />

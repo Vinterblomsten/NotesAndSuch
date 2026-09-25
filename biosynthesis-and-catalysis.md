@@ -13,13 +13,13 @@ As a rule of thumb - **Condensation reactions** require energy while **hydrolysi
 #### Activated Carriers
 The small organic molecules with one or more **energy-rich covalent bond**, that diffuses quickly, are used to "carry" energy from generation sites to biosynthesis sites. Acts as the currencies of the cell. 
 
-![Screenshot 2026-08-24 at 08.34.27](./z-Figures/Screenshot 2026-08-24 at 08.34.27.png)
+<img src="./z-Figures/Screenshot 2026-08-24 at 08.34.27.png" alt="Screenshot 2026-08-24 at 08.34.27" width="220" />
 
 In some anabolic reactions, another high energy **phosphoanhydride bond** is broken and a monophosphate is released from the ADP, releasing almost as much energy as the first
 
 
 **High Energy Electron Transfer - $\text{NADH}$ & $\text{NADPH}$**
-![Screenshot 2026-08-24 at 08.34.59](./z-Figures/Screenshot 2026-08-24 at 08.34.59.png)
+<img src="./z-Figures/Screenshot 2026-08-24 at 08.34.59.png" alt="Screenshot 2026-08-24 at 08.34.59" width="220" />
 
 The difference between $\text{NADH}$ and $\text{NADPH}$ means that they bind to different enzymes resulting in them being used for different functions. In the cytosol we see that: 
 $$[\text{NADH}]<[\text{NAD}^+]$$

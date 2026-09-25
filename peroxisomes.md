@@ -6,4 +6,4 @@ Another important function is the oxydation of toxins, the reaction of which pro
 
 A special feature of the perixsome, is that proteins with the designated **signal sequence** can inter the peroxisomes **fully folded.**
 
-![Pasted image 20260919212512](./z-Figures/Pasted image 20260919212512.png)
+<img src="./z-Figures/Pasted image 20260919212512.png" alt="Pasted image 20260919212512" width="220" />

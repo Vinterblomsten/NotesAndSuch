@@ -15,18 +15,18 @@ After the **adequte stimuli** for the **sensory receptors**
 - **Nociceptors** - reacts to tissue damage and trauma (Pain)
 
 Afsender versus modtagerdel?
-![Screenshot 2026-09-21 at 08.26.14](./z-Figures/Screenshot 2026-09-21 at 08.26.14.png)
+<img src="./z-Figures/Screenshot 2026-09-21 at 08.26.14.png" alt="Screenshot 2026-09-21 at 08.26.14" width="220" />
 
 The sensory cells **can be separate** from the transmission (afsender) part 
 - **Primary** sensory receptors receives the stimulus energy, which activates an action potential, transmittet to the CNS through the afferent axon
 - **Secundary** sensory receptors receives the stimulis energy, which released tranmitters to another cell, where action potentials are generated and transmitted to the CNS
 
 Sensory strength?
-![Screenshot 2026-09-21 at 08.30.43](./z-Figures/Screenshot 2026-09-21 at 08.30.43.png)
+<img src="./z-Figures/Screenshot 2026-09-21 at 08.30.43.png" alt="Screenshot 2026-09-21 at 08.30.43" width="220" />
 
-![Screenshot 2026-09-21 at 08.31.05](./z-Figures/Screenshot 2026-09-21 at 08.31.05.png)
+<img src="./z-Figures/Screenshot 2026-09-21 at 08.31.05.png" alt="Screenshot 2026-09-21 at 08.31.05" width="220" />
 
-![Screenshot 2026-09-21 at 08.31.55](./z-Figures/Screenshot 2026-09-21 at 08.31.55.png)
+<img src="./z-Figures/Screenshot 2026-09-21 at 08.31.55.png" alt="Screenshot 2026-09-21 at 08.31.55" width="220" />
 Curriculumm for signaling cascase
 - Merkel cells
 - Srtech receptors in grasshopper wings
@@ -42,7 +42,7 @@ It is a **secondary sensory receptor**
 - The more strech, that higher the action potential frequence
 
 The **adaptation** of the strech receptor is mostly **phasic** but also **tonic**
-![Screenshot 2026-09-21 at 08.57.41](./z-Figures/Screenshot 2026-09-21 at 08.57.41.png)
+<img src="./z-Figures/Screenshot 2026-09-21 at 08.57.41.png" alt="Screenshot 2026-09-21 at 08.57.41" width="220" />
  
 
 #### Photoreceptor
@@ -56,7 +56,7 @@ The cell is depolarized until exposed to photons
 
 #### Dynamic area og senses
 The afferent axon can transmit signals between 3 Hz and 300 Hz
-![Screenshot 2026-09-21 at 08.39.24](./z-Figures/Screenshot 2026-09-21 at 08.39.24.png)
+<img src="./z-Figures/Screenshot 2026-09-21 at 08.39.24.png" alt="Screenshot 2026-09-21 at 08.39.24" width="220" />
 
 The **dynamic area** is the stimulus-strength interval, where to different stimulus strength will result in two different impulse frequencies. If this interval was two large, we would not be able to differentiate between small stimulis strength differences. Instead the area is **dynamic**, meaning that at can be small enough for us to differentiate small changes (when in the right area), while being moveable to fit the **average stimuli** at a given moment - adaptation. 
 
@@ -65,18 +65,18 @@ The **dynamic area** is the stimulus-strength interval, where to different stimu
 - When the cell as hyperpolarized, they **open**
 - When the cell depolarizes (New AP) they are **inactivated**
 
-![Screenshot 2026-09-21 at 08.43.45](./z-Figures/Screenshot 2026-09-21 at 08.43.45.png)
+<img src="./z-Figures/Screenshot 2026-09-21 at 08.43.45.png" alt="Screenshot 2026-09-21 at 08.43.45" width="220" />
 $K_A$ channels also exists in other neurons than sensory receptors.
 
 #### Adaptation
 There is **tonic** and **phasic** adaptation
 Different sensory cells different adaptation
-![Screenshot 2026-09-21 at 08.48.45](./z-Figures/Screenshot 2026-09-21 at 08.48.45.png)
+<img src="./z-Figures/Screenshot 2026-09-21 at 08.48.45.png" alt="Screenshot 2026-09-21 at 08.48.45" width="220" />
 
 ##### Tonic receptors
 The **tonic** receptors adapts **slowly** to change the dynamic area to the **average** stimulis strength
 - This however means, that some stimuli are outside of the dynamic areas, and you are "blind" until adaptation
-![Screenshot 2026-09-21 at 08.50.39](./z-Figures/Screenshot 2026-09-21 at 08.50.39.png)
+<img src="./z-Figures/Screenshot 2026-09-21 at 08.50.39.png" alt="Screenshot 2026-09-21 at 08.50.39" width="220" />
 The tonic receptors are **slowly adapting**, meaning, that they register the stimulus strength (or rather the **stimulus change $\Delta S$**, as the adaptation of the dynamic areas, means that the absolut stimuli strength can't be know)
 - The dynamic area doesn't shift by small variations in the stimuli close to the average
 - It does however change, when the average shifts (E.g. stepping into a dark room, from the outside)
@@ -84,7 +84,7 @@ The tonic receptors are **slowly adapting**, meaning, that they register the sti
 
 ##### Phasic receptors
 The **phasic** receptors detect the temporal dynamics of stimuli change
-![Screenshot 2026-09-21 at 08.54.15](./z-Figures/Screenshot 2026-09-21 at 08.54.15.png)
+<img src="./z-Figures/Screenshot 2026-09-21 at 08.54.15.png" alt="Screenshot 2026-09-21 at 08.54.15" width="220" />
 The **dynamic area** adapts almost as fast as the stimuli, meaning that the frequency of the APs reflect how fast the change og stimuli strength happens, that is they detect $\Delta S/\Delta t$ 
 - This means that phasic receptors don't registrate constant stimuli, as $\Delta S/\Delta t=0$
 

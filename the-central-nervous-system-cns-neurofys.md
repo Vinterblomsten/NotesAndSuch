@@ -3,19 +3,19 @@ Tags: #Neuroscience #Neuroanatomy
 Terms for understanding [Brain Orientation and Location - Cheat sheet (NeuroFys)](./brain-orientation-and-location-cheat-sheet-neurofys.md)
 
 The whole CNS and all of its parts:
-![Screenshot 2026-08-25 at 17.16.55](./z-Figures/Screenshot 2026-08-25 at 17.16.55.png)
+<img src="./z-Figures/Screenshot 2026-08-25 at 17.16.55.png" alt="Screenshot 2026-08-25 at 17.16.55" width="220" />
 
 The Central nervous is the part of the nervous system inside the spine and the cranium. It is divided into the **encephalon** (Greek for *en*: in and *kephale*: head) and the **medulla spinalis**, (Middle of the spine). 
 
 #### Medulla Spinalis
 The spinal chord is a cylindrical chord. It has a narrow fluid filled channel called the **canalis central**, which is surrounded by first grey matter and then white matter. Its surrounded by three **meningial membranes** called dura mater, pia mater, and arachnoidea mater. From medulla spinalis 31 pair of spinal nerves protrude.
-![Screenshot 2026-08-25 at 16.45.19](./z-Figures/Screenshot 2026-08-25 at 16.45.19.png)
+<img src="./z-Figures/Screenshot 2026-08-25 at 16.45.19.png" alt="Screenshot 2026-08-25 at 16.45.19" width="220" />
 
 The encephalon has three divisions - **cerebellum**, the brain stem or **truncus encephalicus**, and the fore brain or **proencephalon**. 
 
 #### Truncus Encephalicus
 The brainstem consists of three parts:
-![Pasted image 20260826105543](./z-Figures/Pasted image 20260826105543.png)
+<img src="./z-Figures/Pasted image 20260826105543.png" alt="Pasted image 20260826105543" width="220" />
 ##### Medulla Oblongata
 The end part of the spinal chord, that connects it to the rest of the CNS, while retaining vital autonomic functions such as heart rate, vomiting and sneezing. 
 It also hosts four cranial nerves:
@@ -47,7 +47,7 @@ In danish - Mellemhjernen, is a part of proencephalon, located rostal from mesen
 - Hypothalamus - Below thalamus
 - Epithalamus
 - Subthalamus
-![Pasted image 20250210125954](./z-Figures/Pasted image 20250210125954.png)
+<img src="./z-Figures/Pasted image 20250210125954.png" alt="Pasted image 20250210125954" width="220" />
 
 ### Telencephalon
 
@@ -68,5 +68,5 @@ Large lateral cortical region of each cerebral hemisphere, continuous with the p
 ###### Occipital Lobe 
 Large region of cortex covering much of the posterior part of each cerebral hemisphere.
 
-![Screenshot 2025-02-09 at 13.08.04](./z-Figures/Screenshot 2025-02-09 at 13.08.04.png)
+<img src="./z-Figures/Screenshot 2025-02-09 at 13.08.04.png" alt="Screenshot 2025-02-09 at 13.08.04" width="220" />
 
