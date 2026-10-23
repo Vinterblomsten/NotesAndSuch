@@ -47,7 +47,7 @@ Similar to **heteromer trimeric G-proteins**, the **monomeric Ras** proteins are
 
 <img src="../z-Figures/Screenshot%202026-10-14%20at%2014.03.25.png" alt="Screenshot 2026-10-14 at 14.03.25" width="610">
 
-Ras is a [proto-oncogen](Cancer.md) - a mutation **inhibiting the GTPase** activity of Ras will cause it to **stay active indefinitely**, leading to uninhibited proliferation signals. 
+Ras is a [proto-oncogen](Cancer.html) - a mutation **inhibiting the GTPase** activity of Ras will cause it to **stay active indefinitely**, leading to uninhibited proliferation signals. 
 - We can use SDS-page and western blotting to analyze phosphorylation of proteins, by using antibodies that recognize the protein, and the phosphorylated version respectively. 
 
 #### PI 3-Kinase pathway

@@ -78,7 +78,7 @@ DNA damage can **arrest** the cell cycle in all phases through several distinct 
 #### S phase
 The preperation to the DNA replication begins in the $G_1$ where the **origin recognition complex (ORC)** recognizes and binds the **replication origins**, at which point they recruit the **Cdc6 protein**. These recruits the **helicase**, which ultimately dissociates the strands. Once this **prereplicative complex** is in place, the replication is ready to proceed, but not initiated.
 
-**S-Cdk** will when actiavted initiate the replication, by activating the helicase and recruiting the replication machine - [DNA Replication](DNA_Replication.md)
+**S-Cdk** will when actiavted initiate the replication, by activating the helicase and recruiting the replication machine - [DNA Replication](DNA_Replication.html)
 
 The S-Cdk laso inhibits re-replication, by **phosphorylating Cdc6 and ORC** thus inactivating them form forming another prereplicative complex.
 <img src="../z-Figures/Screenshot%202026-10-12%20at%2010.52.27.png" alt="Screenshot 2026-10-12 at 10.52.27" width="526">

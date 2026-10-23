@@ -5,7 +5,7 @@ title: "Transmembrane Transport"
 
 Tags: #CellBiology #Physiology 
 
-The plasma membrane controls all transport into and out of the cell, almost exclusively through **simple diffusion**, with the help of **transmembrane proteins** or through **vesicles fusion** (see [Compartments and Protein Distribution](Compartments_and_Protein_Distribution.md)). 
+The plasma membrane controls all transport into and out of the cell, almost exclusively through **simple diffusion**, with the help of **transmembrane proteins** or through **vesicles fusion** (see [Compartments and Protein Distribution](Compartments_and_Protein_Distribution.html)). 
 
 ##### Gradients of movement
 Given the second law of thermodynamics, the molecules wants to spontaneously spread out as much as possible to decrease the order of the system. When looking at at divided system they wants to balance the concentrations meaning that the molecules moves towards the lowest concentration creating the **concentration gradient**. When combined with the electrical properties of charged particles, this creates the **electrochemical gradient**. 

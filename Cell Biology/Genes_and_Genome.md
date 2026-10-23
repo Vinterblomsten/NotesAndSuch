@@ -30,7 +30,7 @@ The small modifications resulting in a genome change are usually encompassed by 
 
 #### Mutations
 Mutations to the DNA are usually a result of **errors in the replication**, that haven't been caught by the DNA repair systems.
-- Although spontaneous mutations also occur for other reasons - see [DNA Mutations and Repair](DNA_Mutations_and_Repair.md)
+- Although spontaneous mutations also occur for other reasons - see [DNA Mutations and Repair](DNA_Mutations_and_Repair.html)
 
 They usually encompass
 - **Changing** one or more nucleotides

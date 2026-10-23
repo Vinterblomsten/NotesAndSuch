@@ -21,7 +21,7 @@ Except for **lamin**, which exist in all nuclei of animal cells, the peptides ar
 
 <img src="../z-Figures/Screenshot%202026-09-15%20at%2017.56.07.png" alt="Screenshot 2026-09-15 at 17.56.07" width="504">
 
-**Desmosomes** are the contact point between intermediary filaments of neighbouring cells. (See [Cell-Cell and Cell-ECM Contact](Cell-Cell_and_Cell-ECM_Contact.md))
+**Desmosomes** are the contact point between intermediary filaments of neighbouring cells. (See [Cell-Cell and Cell-ECM Contact](Cell-Cell_and_Cell-ECM_Contact.html))
 <img src="../z-Figures/Screenshot%202026-09-15%20at%2017.56.28.png" alt="Screenshot 2026-09-15 at 17.56.28" width="336">
 
 ## Actine filament (F-actine)

@@ -5,7 +5,7 @@ title: "G-protein Coupled Receptors"
 
 Tags: #CellBiology 
 
-The G-protein coupled receptors (**GPCRs**) are one of the two important receptor types in cell signalling, the other being [Enzyme-Coupled Receptors](Enzyme-Coupled_Receptors.md). They are also called **7TM receptors**, because they are **7-pass transmembran proteins**. 
+The G-protein coupled receptors (**GPCRs**) are one of the two important receptor types in cell signalling, the other being [Enzyme-Coupled Receptors](Enzyme-Coupled_Receptors.html). They are also called **7TM receptors**, because they are **7-pass transmembran proteins**. 
 
 The G-proteins 
 

@@ -62,7 +62,7 @@ The mitochondria in the cell is a evolutionary result of symbiosis between an ea
 4. The ability to do fusion and fission unlike other organelles
 
 #### Protein Translocation and Assembly
-See [Compartments and Protein Distribution](Compartments_and_Protein_Distribution.md)
+See [Compartments and Protein Distribution](Compartments_and_Protein_Distribution.html)
 <img src="../z-Figures/Screenshot%202026-09-14%20at%2012.33.21.png" alt="Screenshot 2026-09-14 at 12.33.21" width="574">
 
 #### Glycolysis and Transport
@@ -133,7 +133,7 @@ The proces of the ATP synthase is **reversible**, meaning that if the electroche
 The proton gradient does not only facilitate the synthesis of ATP, but also other processes. 
 - **Carrier proteins** transports pyruvate, ADP, $P_i$ into the matrix and ATP out of it. This is agains their **concentration gradients**, and thus requires energy. This is done through coupled transport (Both antiporters and symporters) with the proton influx.
 - Other **antiporters** utilize the **membrane potential** created by the electron transport chain to transport (charged) $ATP^{4-}$ out of the cell and $ADP^{3-}$ into the cell.
-- Also for protein translocation into the mitochondria (somehow? [Protein distribution](Compartments_and_Protein_Distribution.md))
+- Also for protein translocation into the mitochondria (somehow? [Protein distribution](Compartments_and_Protein_Distribution.html))
 - It can have direct functional properties such as in bacteria, where the influx of protons drive the rapid rotation of the flagellum
 <img src="../z-Figures/Screenshot%202026-09-13%20at%2012.36.22.png" alt="Screenshot 2026-09-13 at 12.36.22" width="433">
 #### ATP production in a Grander Perspective

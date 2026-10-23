@@ -182,7 +182,7 @@ Anchors the epithelial cells to the ECM
 ##### Focal adhesions
 The focal adhesions are cell-ECM contacts but unlike hemidesmosomes they connect with the **actin** of the cytoskeleton.
 - They consists of plague proteins binding transmembrane **integrins** binding to **fibronectines**
-- They are quite common in **fibroblast cells** - see [Cytoskeleton and Protein Filaments](Cytoskeleton_and_Protein_Filaments.md) for details
+- They are quite common in **fibroblast cells** - see [Cytoskeleton and Protein Filaments](Cytoskeleton_and_Protein_Filaments.html) for details
 <img src="../z-Figures/Screenshot%202026-09-16%20at%2012.50.45.png" alt="Screenshot 2026-09-16 at 12.50.45" width="272">
 
 **Defects in the integrins** can have a lot of consequences depending on the type of integrin

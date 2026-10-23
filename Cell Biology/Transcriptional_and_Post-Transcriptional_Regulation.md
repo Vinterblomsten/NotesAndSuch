@@ -163,7 +163,7 @@ After (during) the transcription we have the **pre-mRNA**, which needs **process
 - Capping
 - Polyadenylation
 
-The mature mRNA also includes **untranslated regions (UTRs)** before the start codon, and after the stop codon. These play an important role in translocation, etc. [RNA Processing](RNA_Processing.md)
+The mature mRNA also includes **untranslated regions (UTRs)** before the start codon, and after the stop codon. These play an important role in translocation, etc. [RNA Processing](RNA_Processing.html)
 ![Screenshot 2026-09-30 at 11.36.14](../z-Figures/Screenshot%202026-09-30%20at%2011.36.14.png)
 
 This gives os room for **regulatory intervention**. The UTRs include the 5' UTR before the start codon, and the 3' UTR after the stop codon.
@@ -194,7 +194,7 @@ An **example** is the **Cyclin D1** in **cancerous cells**.
 - This increase mRNA stability and protein expression
 - The increase Cyclin D1 increases proliferation and oncogenesis (The formation of cancerous tissue)
 ##### Alternative slicing
-The [alternative splicing](RNA_Processing.md), where exons are skipped, can be seen as a regulatory mechanism, as it can both form premature stop-codons inducing **nonsense mediated decay**, degrading the mRNA, and it can alter the UTRs, changing the regulation like in the case of alternative polyadenylation.
+The [alternative splicing](RNA_Processing.html), where exons are skipped, can be seen as a regulatory mechanism, as it can both form premature stop-codons inducing **nonsense mediated decay**, degrading the mRNA, and it can alter the UTRs, changing the regulation like in the case of alternative polyadenylation.
 
 ##### Non-coding RNAs
 Some types of RNA are used for translation (tRNA and rRNA). Some however regulates other types of RNA:

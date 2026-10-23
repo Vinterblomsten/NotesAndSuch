@@ -12,7 +12,7 @@ The synthesis must only happen in the **S phase of the cell cycle**, but the pro
 More in the cell cyclus lecture
 
 ##### Strands of replication
-The **DNA polymerase** does 5'$\rightarrow$ 3' synthesis of the DNA strands, that is it **reads from 3' end to the 5' end** ([Defined by the "free" carbon in the dexoyribose"](DNA_and_Chromosomes.md)), and thus is **synthesized the other way round**: 5'$\rightarrow$ 3'. 
+The **DNA polymerase** does 5'$\rightarrow$ 3' synthesis of the DNA strands, that is it **reads from 3' end to the 5' end** ([Defined by the "free" carbon in the dexoyribose"](DNA_and_Chromosomes.html)), and thus is **synthesized the other way round**: 5'$\rightarrow$ 3'. 
 <img src="../z-Figures/Screenshot%202026-09-26%20at%2013.49.59.png" alt="Screenshot 2026-09-26 at 13.49.59" width="436">
 
 The synthesis are said to be **semiconservative**, as each new DNA helix is a result of one original strand and one new one. (Altough in the next generation of DNA, half of the helices are without any of the "grandmother" strands)
